@@ -1,0 +1,545 @@
+,brand,mode_name,ram,rom,screen_size,front_cam,rear_cam,no_of_rear_cam,battery,processor,display_type,screen_refresh_rate,oper_sys,no_of_cores,clock_speed,cam_sensor_size(denominator),rear_aperture_size,cam_framerate(fps),has_5G,mob_weight,sale_price
+0,realme,realme c30,2,32,6.5,5,8,1,5000,unisoc t612,ips lcd,60.0,android 11,8,1.82,4.0,2.0,30,0.0,182.0,5999
+1,realme,realme c30,3,32,6.5,5,8,1,5000,unisoc t612,ips lcd,60.0,android 11,8,1.82,4.0,2.0,30,0.0,182.0,6499
+2,realme,realme c25,4,64,6.5,8,13,3,6000,mediatek helio g85,ips lcd,60.0,android 11,8,2.0,3.06,2.2,30,0.0,209.0,9999
+3,realme,realme c25,4,128,6.5,8,13,3,6000,mediatek helio g85,ips lcd,60.0,android 11,8,2.0,3.06,2.2,30,0.0,209.0,10890
+4,realme,realme c33 ,4,64,6.5,5,50,2,5000,unisoc t612,hd+lcd,60.0,android 12,8,1.82,2.55,1.8,30,0.0,187.0,9999
+5,realme,realme c33 ,4,128,6.5,5,50,2,5000,unisoc t612,hd+lcd,60.0,android 12,8,1.82,2.55,1.8,30,0.0,187.0,10499
+6,realme,realme narzo 50i,2,32,6.5,5,8,2,5000,unisoc t612,hd+lcd,60.0,android 11,8,1.6,4.0,2.0,30,0.0,195.0,7054
+7,realme,realme narzo 50i,4,64,6.5,5,8,2,5000,unisoc t612,hd+lcd,60.0,android 11,8,1.6,4.0,2.0,30,0.0,195.0,8434
+8,realme,realme c20,2,32,6.5,5,8,1,5000,mediatek helio g85,hd+,60.0,android 10,8,2.3,4.0,2.0,30,0.0,190.0,7499
+9,realme,realme c21,3,32,6.5,5,13,3,5000,mediatek helio g85,hd+,60.0,android 10,8,2.3,3.06,2.2,30,0.0,190.0,9499
+10,realme,realme c21,4,64,6.5,5,13,3,5000,mediatek helio g85,hd+,60.0,android 10,8,2.3,3.06,2.2,30,0.0,190.0,10499
+11,realme,realme c30s,2,32,6.5,5,8,1,5000,unisoc t612,hd+lcd,60.0,android 12,8,1.6,4.0,2.0,30,0.0,186.0,6999
+12,realme,realme c30s,4,64,6.5,5,8,1,5000,unisoc t612,hd+lcd,60.0,android 12,8,1.6,4.0,2.0,30,0.0,186.0,8499
+13,realme,realme c21y,3,32,6.5,5,13,3,5000,unisoc t612,hd+,60.0,android 11,8,1.8,3.0,2.2,30,0.0,200.0,9499
+14,realme,realme c21y,4,64,6.5,5,13,3,5000,unisoc t612,hd+,60.0,android 11,8,1.8,3.0,2.2,30,0.0,200.0,10499
+15,realme,realme c31,4,64,6.2,5,13,3,5000,unisoc t612,hd+lcd,60.0,android 11,8,1.82,3.06,2.2,30,0.0,197.0,9999
+16,realme,realme c31,3,32,6.2,5,13,3,5000,unisoc t612,hd+lcd,60.0,android 11,8,1.82,3.06,2.2,30,0.0,197.0,9299
+17,realme,realme 3i,3,32,6.22,13,13,2,4230,mediatek helio p70,hd+,60.0,android 9 pie,8,2.0,3.1,1.8,30,0.0,175.0,8499
+18,realme,realme c2,2,32,6.1,5,13,2,4000,mediatek helio p35,hd+,60.0,android 9 pie,8,2.0,3.1,2.2,30,0.0,166.0,7999
+19,realme,realme 2,3,32,6.2,8,13,2,4230,qualcomm snapdragon 460,hd+,60.0,android oreo 8.1,8,1.8,4.0,2.2,30,0.0,168.0,9990
+20,realme,realme c3,4,64,6.52,5,12,3,5000,mediatek helio g85,hd+,60.0,android 10,8,2.0,2.8,1.8,30,0.0,195.0,8999
+21,realme,realme c3,3,32,6.52,5,12,3,5000,mediatek helio g85,hd+,60.0,android 10,8,2.0,2.8,1.8,30,0.0,195.0,7999
+22,realme,realme 3,3,32,6.22,13,13,2,4230,mediatek helio p70,hd+,60.0,android 9 pie,8,2.1,3.1,1.8,30,0.0,175.0,8499
+23,realme,realme 3,3,64,6.22,13,13,2,4230,mediatek helio p70,hd+,60.0,android 9 pie,8,2.1,3.1,1.8,30,0.0,175.0,9499
+24,realme,realme 3,4,32,6.22,13,13,2,4230,mediatek helio p70,hd+,60.0,android 9 pie,8,2.1,3.1,1.8,30,0.0,175.0,10499
+25,realme,realme narzo 30A,3,32,6.51,8,13,2,6000,mediatek helio g85,hd+,60.0,android 10,8,2.0,3.06,2.2,30,0.0,209.0,9999
+26,realme,realme c12,4,64,6.52,5,13,3,6000,mediatek helio g35,hd+,60.0,android 10,8,2.3,3.0,2.2,30,0.0,209.0,10499
+27,realme,realme c15,3,32,6.52,8,13,4,6000,mediatek helio g35,hd+,60.0,android 10,8,2.3,3.0,2.2,30,0.0,209.0,9800
+28,realme,realme c55,4,64,6.73,8,64,2,5000,mediatek helio g85,hd+lcd,90.0,android 13,8,2.0,2.0,1.79,120,0.0,189.5,10999
+29,realme,realme c55,6,64,6.73,8,64,2,5000,mediatek helio g85,hd+lcd,90.0,android 13,8,2.0,2.0,1.79,120,0.0,189.5,11999
+30,realme,realme c55,8,128,6.73,8,64,2,5000,mediatek helio g85,hd+lcd,90.0,android 13,8,2.0,2.0,1.79,120,0.0,189.5,13999
+31,realme,realme c33 ,4,128,6.5,5,50,2,5000,unisoc t612,hd+lcd,60.0,android 12,8,1.82,2.55,1.8,30,0.0,187.0,10499
+32,realme,realme c33 ,4,64,6.5,5,50,2,5000,unisoc t612,hd+lcd,60.0,android 12,8,1.82,2.55,1.8,30,0.0,187.0,9999
+33,realme,realme 10 pro 5G,6,128,6.72,16,108,2,5000,qualcomm snapdragon 695,hd+lcd,120.0,android 13,8,2.2,1.67,1.75,120,1.0,190.0,18999
+34,realme,realme 10 pro 5G,8,128,6.72,16,108,2,5000,qualcomm snapdragon 695,hd+lcd,120.0,android 13,8,2.2,1.67,1.75,120,1.0,190.0,19999
+35,realme,realme 10 ,8,128,6.4,16,50,2,5000,mediatek helio g85,hd+amoled,90.0,android 12,8,2.2,2.76,1.8,120,0.0,178.0,15499
+36,realme,realme 10 ,4,64,6.4,16,50,2,5000,mediatek helio g85,hd+amoled,90.0,android 12,8,2.2,2.76,1.8,120,0.0,178.0,12499
+37,realme,realme c25s,4,64,6.5,8,13,3,6000,mediatek helio g85,hd+lcd,60.0,android 11,8,2.0,3.06,2.2,30,0.0,209.0,10899
+38,realme,realme 10 pro+ 5G,6,128,6.7,16,108,3,5000,mediatek dimensity 1080,hd+amoled,120.0,android 13,8,2.6,1.67,1.75,480,1.0,174.5,22999
+39,realme,realme 10 pro+ 5G,8,128,6.7,16,108,3,5000,mediatek dimensity 1080,hd+amoled,120.0,android 13,8,2.6,1.67,1.75,480,1.0,174.5,23999
+40,realme,realme 10 pro+ 5G,8,256,6.7,16,108,3,5000,mediatek dimensity 1080,hd+amoled,120.0,android 13,8,2.6,1.67,1.75,480,1.0,174.5,25999
+41,realme,realme GT 2,8,128,6.62,16,50,3,5000,qualcomm snapdragon 888,hd+amoled,120.0,android 12,8,2.84,1.56,1.8,60,1.0,199.8,39999
+42,realme,realme GT 2,12,256,6.62,16,50,3,5000,qualcomm snapdragon 888,hd+amoled,120.0,android 12,8,2.84,1.56,1.8,60,1.0,199.8,44999
+43,realme,realme 9i 5G,4,64,6.6,8,50,3,5000,mediatek dimensity 810,hd+ips lcd,90.0,android 12,8,2.4,2.76,1.8,30,1.0,187.0,14999
+44,realme,realme 9i 5G,6,128,6.6,8,50,3,5000,mediatek dimensity 810,hd+ips lcd,90.0,android 12,8,2.4,2.76,1.8,30,1.0,187.0,16999
+45,realme,realme narzo 50,6,128,6.6,16,50,3,5000,mediatek helio g85,hd+lcd,120.0,android 11,8,2.05,2.76,1.8,120,0.0,194.0,12999
+46,realme,realme narzo N55,6,128,6.72,8,64,2,5000,mediatek helio g85,hd+ips lcd,90.0,android 13,8,2.0,2.0,1.8,60,0.0,189.5,13515
+47,realme,realme narzo N55,4,64,6.72,8,64,2,5000,mediatek helio g85,hd+ips lcd,90.0,android 13,8,2.0,2.0,1.8,60,0.0,189.5,11510
+48,realme,realme c35,4,64,6.6,8,50,3,5000,unisoc t612,hd+,60.0,android 11,8,2.0,2.76,1.8,30,0.0,189.0,11999
+49,realme,realme c35,4,128,6.6,8,50,3,5000,unisoc t612,hd+,60.0,android 11,8,2.0,2.76,1.8,30,0.0,189.0,12999
+50,realme,realme GT neo 3T,6,128,6.62,16,64,3,5000,qualcomm snapdragon 888,hd+amoled,120.0,android 12,8,3.2,2.0,1.79,240,1.0,194.5,22999
+51,realme,realme GT neo 3T,8,128,6.62,16,64,3,5000,qualcomm snapdragon 888,hd+amoled,120.0,android 12,8,3.2,2.0,1.79,240,1.0,194.5,24999
+52,realme,realme GT neo 3T,8,256,6.62,16,64,3,5000,qualcomm snapdragon 888,hd+amoled,120.0,android 12,8,3.2,2.0,1.79,240,1.0,194.5,26999
+53,realme,realme 9 pro 5G,6,128,6.6,16,64,3,5000,qualcomm snapdragon 695,hd+,120.0,android 12,8,2.2,2.0,1.79,120,1.0,195.0,18999
+54,realme,realme 9 pro 5G,6,128,6.6,16,64,3,5000,qualcomm snapdragon 695,hd+,120.0,android 12,8,2.2,2.0,1.79,120,1.0,195.0,20999
+55,realme,realme 9 5G,4,64,6.5,16,48,3,5000,mediatek dimensity 810,hd+,90.0,android 11,8,2.4,2.0,1.8,120,1.0,188.0,15999
+56,realme,realme 8,4,128,6.4,16,64,4,5000,mediatek helio g95,hd+super amoled,60.0,android 11,8,2.0,2.0,1.79,60,0.0,177.0,16999
+57,realme,realme 8,8,128,6.4,16,64,4,5000,mediatek helio g95,hd+super amoled,60.0,android 11,8,2.0,2.0,1.79,60,0.0,177.0,17999
+58,realme,realme 8 5G,4,128,6.5,16,48,3,5000,mediatek dimensity 700,hd+lcd,90.0,android 11,8,2.2,2.0,1.8,60,1.0,185.0,16499
+59,realme,realme 8i,4,64,6.6,16,50,3,5000,mediatek helio g85,hd+,120.0,android 11,8,2.05,2.76,1.8,60,0.0,194.0,13999
+60,realme,realme narzo 30,4,64,6.5,16,48,3,5000,mediatek helio g95,hd+,90.0,android 11,8,2.05,2.0,1.8,60,0.0,192.0,13499
+61,realme,realme narzo 30,6,128,6.5,16,48,3,5000,mediatek helio g95,hd+,90.0,android 11,8,2.05,2.0,1.8,60,0.0,192.0,15499
+62,realme,realme c12,4,64,6.52,5,13,3,6000,mediatek helio g35,hd+lcd,60.0,android 10,8,2.3,3.0,2.2,30,0.0,209.0,10999
+63,realme,realme x2 pro,6,64,6.5,16,64,4,4000,qualcomm snapdragon 888,hd+super amoled,90.0,android 9 pie,8,2.96,1.72,1.8,60,0.0,199.0,29999
+64,realme,realme x2 pro,8,128,6.5,16,64,4,4000,qualcomm snapdragon 888,hd+super amoled,90.0,android 9 pie,8,2.96,1.72,1.8,60,0.0,199.0,31999
+65,realme,realme x2 pro,12,256,6.5,16,64,4,4000,qualcomm snapdragon 888,hd+super amoled,90.0,android 9 pie,8,2.96,1.72,1.8,60,0.0,199.0,35999
+66,apple,iphone 8,2,64,4.7,7,12,1,1821,a11,lcd multi-touch,60.0,ios 12,6,2.39,3.0,1.8,60,0.0,148.0,39900
+67,apple,iphone 8,2,256,4.7,7,12,1,1821,a11,lcd multi-touch,60.0,ios 12,6,2.39,3.0,1.8,60,0.0,148.0,77000
+68,apple,iphone 8 plus,3,64,5.5,7,12,2,2691,a11,lcd multi-touch,60.0,ios 12,6,2.39,3.0,1.8,60,0.0,202.0,49900
+69,apple,iphone 8 plus,3,256,5.5,7,12,2,2691,a11,lcd multi-touch,60.0,ios 12,6,2.39,3.0,1.8,60,0.0,202.0,84900
+70,apple,iphone x,3,256,5.8,7,12,2,2716,a11,oled multi-touch,60.0,ios 11,6,2.39,2.9,1.8,60,0.0,174.0,106900
+71,apple,iphone x,3,64,5.8,7,12,2,2716,a11,oled multi-touch,60.0,ios 11,6,2.39,2.9,1.8,60,0.0,174.0,91900
+72,apple,iphone xr,3,64,6.1,7,12,1,2942,a12,lcd multi-touch,60.0,ios 12,6,2.5,2.55,1.8,60,0.0,194.0,47900
+73,apple,iphone xr,3,128,6.1,7,12,1,2942,a12,lcd multi-touch,60.0,ios 12,6,2.5,2.55,1.8,60,0.0,194.0,41699
+74,apple,iphone xr,3,256,6.1,7,12,1,2942,a12,lcd multi-touch,60.0,ios 12,6,2.5,2.55,1.8,60,0.0,194.0,91900
+75,apple,iphone xs,4,64,5.8,7,12,2,2658,a12,oled multi-touch,60.0,ios 12,6,2.5,2.55,1.8,60,0.0,177.0,89900
+76,apple,iphone xs,4,256,5.8,7,12,2,2658,a12,oled multi-touch,60.0,ios 12,6,2.5,2.55,1.8,60,0.0,177.0,103900
+77,apple,iphone xs,4,512,5.8,7,12,2,2658,a12,oled multi-touch,60.0,ios 12,6,2.5,2.55,1.8,60,0.0,177.0,134900
+78,apple,iphone xs max,4,64,6.5,7,12,2,3174,a12,oled multi-touch,60.0,ios 12,6,2.5,2.55,1.8,60,0.0,208.0,109900
+79,apple,iphone xs max,4,256,6.5,7,12,2,3174,a12,oled multi-touch,60.0,ios 12,6,2.5,2.55,1.8,60,0.0,208.0,124900
+80,apple,iphone xs max,4,512,6.5,7,12,2,3174,a12,oled multi-touch,60.0,ios 12,6,2.5,2.55,1.8,60,0.0,208.0,144900
+81,apple,iphone 11,4,64,6.1,12,12,2,3110,a13,retina xdr,60.0,ios 14,6,2.5,2.55,1.8,60,0.0,194.0,43900
+82,apple,iphone 11,4,128,6.1,12,12,2,3110,a13,retina xdr,60.0,ios 14,6,2.5,2.55,1.8,60,0.0,194.0,48900
+83,apple,iphone 11 pro,4,64,5.8,12,12,3,3046,a13,retina xdr,60.0,ios 13,6,2.65,2.55,1.8,60,0.0,188.0,106600
+84,apple,iphone 11 pro,4,256,5.8,12,12,3,3046,a13,retina xdr,60.0,ios 13,6,2.65,2.55,1.8,60,0.0,188.0,121300
+85,apple,iphone 11 pro,4,512,5.8,12,12,3,3046,a13,retina xdr,60.0,ios 13,6,2.65,2.55,1.8,60,0.0,188.0,140300
+86,apple,iphone 11 pro max,4,64,6.5,12,12,3,3969,a13,retina xdr,60.0,ios 13,6,2.65,2.55,1.8,60,0.0,226.0,109900
+87,apple,iphone 11 pro max,4,256,6.5,12,12,3,3969,a13,retina xdr,60.0,ios 13,6,2.65,2.55,1.8,60,0.0,226.0,131900
+88,apple,iphone 11 pro max,4,512,6.5,12,12,3,3969,a13,retina xdr,60.0,ios 13,6,2.65,2.55,1.8,60,0.0,226.0,150800
+89,apple,iphone se,4,64,4.7,7,12,1,1821,a13,retina xdr,60.0,ios 13,6,1.84,3.0,1.8,60,0.0,148.0,39900
+90,apple,iphone se,4,128,4.7,7,12,1,1821,a13,retina xdr,60.0,ios 13,6,1.84,3.0,1.8,60,0.0,148.0,44900
+91,apple,iphone se,4,256,4.7,7,12,1,1821,a13,retina xdr,60.0,ios 13,6,1.84,3.0,1.8,60,0.0,148.0,54900
+92,apple,iphone 12,4,64,6.1,12,12,2,2815,a14,retina xdr,60.0,ios 14,6,3.1,1.9,1.6,240,1.0,162.0,59900
+93,apple,iphone 12,4,128,6.1,12,12,2,2815,a14,retina xdr,60.0,ios 14,6,3.1,1.9,1.6,240,1.0,162.0,64900
+94,apple,iphone 12,4,256,6.1,12,12,2,2815,a14,retina xdr,60.0,ios 14,6,3.1,1.9,1.6,240,1.0,162.0,74900
+95,realme,realme 9i ,4,64,6.6,16,50,3,5000,qualcomm snapdragon 680,hd+,90.0,android 11,8,2.4,2.76,1.8,30,0.0,190.0,13499
+96,realme,realme 9i ,4,128,6.6,16,50,3,5000,qualcomm snapdragon 680,hd+,90.0,android 11,8,2.4,2.76,1.8,30,0.0,190.0,14999
+97,realme,realme 9i ,6,128,6.6,16,50,3,5000,qualcomm snapdragon 680,hd+,90.0,android 11,8,2.4,2.76,1.8,30,0.0,190.0,17999
+98,realme,realme c25_y,4,64,6.5,8,50,3,5000,unisoc t612,hd+,60.0,android 11,8,2.0,2.76,1.8,30,0.0,200.0,10999
+99,realme,realme c25_y,4,128,6.5,8,50,3,5000,unisoc t612,hd+,60.0,android 11,8,2.0,2.76,1.8,30,0.0,200.0,11999
+100,realme,realme GT neo 3,12,256,6.7,16,50,3,5000,mediatek dimensity 8100,oled multi-touch,120.0,android 12,8,2.85,1.56,1.88,480,1.0,188.0,42999
+101,realme,realme GT neo 3,8,256,6.7,16,50,3,5000,mediatek dimensity 8100,oled multi-touch,120.0,android 12,8,2.85,1.56,1.88,480,1.0,188.0,38999
+102,realme,realme GT neo 3,8,128,6.7,16,50,3,5000,mediatek dimensity 8100,oled multi-touch,120.0,android 12,8,2.85,1.56,1.88,480,1.0,188.0,36999
+103,realme,realme narzo 30 pro 5G,8,128,6.5,16,48,3,5000,qualcomm snapdragon 888,hd+lcd,120.0,android 10,8,2.4,1.2,1.8,60,1.0,194.0,19999
+104,realme,realme GT master edition,8,256,6.43,32,64,3,4300,qualcomm snapdragon 778g,hd+super amoled,120.0,android 11,8,2.4,2.0,1.8,60,1.0,180.0,29999
+105,realme,realme GT master edition,8,128,6.43,32,64,3,4300,qualcomm snapdragon 778g,hd+super amoled,120.0,android 11,8,2.4,2.0,1.8,60,1.0,180.0,27999
+106,realme,realme GT master edition,6,128,6.43,32,64,3,4300,qualcomm snapdragon 778g,hd+super amoled,120.0,android 11,8,2.4,2.0,1.8,60,1.0,180.0,25999
+107,realme,realme narzo 30 5G,6,128,6.5,16,48,3,5000,mediatek dimensity 700,hd+lcd,90.0,android 11,8,2.2,2.0,1.8,30,1.0,185.0,16999
+108,realme,realme narzo 30 5G,4,64,6.5,16,48,3,5000,mediatek dimensity 700,hd+lcd,90.0,android 11,8,2.2,2.0,1.8,30,1.0,185.0,14999
+109,realme,realme 6,4,64,6.5,16,64,4,4300,mediatek helio g85,hd+lcd,90.0,android 10,8,2.05,1.72,1.8,60,0.0,191.0,13999
+110,realme,realme 6,6,128,6.5,16,64,4,4300,mediatek helio g85,hd+lcd,90.0,android 10,8,2.05,1.72,1.8,60,0.0,191.0,16999
+111,realme,realme 8s 5G,6,128,6.5,16,64,3,5000,qualcomm snapdragon 888,hd+lcd,90.0,android 11,8,2.4,2.0,1.8,30,1.0,190.0,17999
+112,realme,realme 8s 5G,8,128,6.5,16,64,3,5000,qualcomm snapdragon 888,hd+lcd,90.0,android 11,8,2.4,2.0,1.8,30,1.0,190.0,19999
+113,redmi,redmi note 12 5g,8,256,6.67,13,48,3,5000,mediatek dimensity 810,hd+amoled,120.0,android 12,8,2.0,1.56,1.88,30,1.0,188.0,20999
+114,redmi,redmi note 12 5g,6,128,6.67,13,48,3,5000,mediatek dimensity 810,hd+amoled,120.0,android 12,8,2.0,1.56,1.88,30,1.0,188.0,18999
+115,redmi,redmi note 12 5g,4,128,6.67,13,48,3,5000,mediatek dimensity 810,hd+amoled,120.0,android 12,8,2.0,1.56,1.88,30,1.0,188.0,16999
+116,redmi,redmi note 12 pro 5g,6,128,6.67,16,50,3,5000,mediatek dimensity 1080,hd+amoled,120.0,android 12,8,2.6,1.56,1.88,30,1.0,187.0,24999
+117,redmi,redmi note 12 pro 5g,8,128,6.67,16,50,3,5000,mediatek dimensity 1080,hd+amoled,120.0,android 12,8,2.6,1.56,1.88,30,1.0,187.0,25999
+118,redmi,redmi note 12 pro 5g,8,256,6.67,16,50,3,5000,mediatek dimensity 1080,hd+amoled,120.0,android 12,8,2.6,1.56,1.88,30,1.0,187.0,27999
+119,redmi,redmi 11 prime 5g,4,64,6.58,8,50,2,5000,mediatek dimensity 700,ips lcd,90.0,android 12,8,2.2,1.52,1.88,30,1.0,200.0,12989
+120,redmi,redmi note 12 pro+ 5g,12,256,6.67,16,200,3,4980,mediatek dimensity 1080,hd+,120.0,android 12,8,2.6,1.4,1.65,30,1.0,208.0,32999
+121,redmi,redmi note 12 pro+ 5g,8,256,6.67,16,200,3,4980,mediatek dimensity 1080,hd+,120.0,android 12,8,2.6,1.4,1.65,30,1.0,208.0,29999
+122,redmi,redmi k50i 5g,8,256,6.6,16,64,3,5080,mediatek dimensity 8100,hd+ips lcd,144.0,android 12,8,2.85,1.72,1.89,30,1.0,200.0,23999
+123,redmi,redmi k50i 5g,6,128,6.6,16,64,3,5080,mediatek dimensity 8100,hd+ips lcd,144.0,android 12,8,2.85,1.72,1.89,30,1.0,200.0,20999
+124,redmi,redmi note 10t 5g,4,64,6.56,8,48,3,5000,mediatek dimensity 700,hd+ips lcd,90.0,android 11,8,2.2,2.0,1.79,30,1.0,190.0,14999
+125,redmi,redmi note 10t 5g,6,128,6.56,8,48,3,5000,mediatek dimensity 700,hd+ips lcd,90.0,android 11,8,2.2,2.0,1.79,30,1.0,190.0,16999
+126,redmi,redmi note 11t 5g,6,128,6.6,16,50,2,5000,mediatek dimensity 810,ips lcd,90.0,android 11,8,2.4,1.8,2.5,30,1.0,195.0,18990
+127,redmi,redmi note 11t 5g,8,128,6.6,16,50,2,5000,mediatek dimensity 810,ips lcd,90.0,android 11,8,2.4,1.8,2.5,30,1.0,195.0,19990
+128,redmi,redmi note 10 je 5g,4,64,6.56,8,48,3,5000,qualcomm snapdragon 460,ips lcd,90.0,android 10,8,2.42,2.0,1.79,30,1.0,190.0,14999
+129,redmi,redmi note 11t 5g,6,64,6.6,16,50,2,5000,mediatek dimensity 810,ips lcd,90.0,android 11,8,2.4,2.76,2.2,30,1.0,195.0,18999
+130,redmi,redmi note 11 pro plus 5g,6,128,6.67,16,108,3,5000,qualcomm snapdragon 695,super amoled,120.0,android 11,2,2.2,1.52,1.9,30,1.0,202.0,24996
+131,redmi,redmi note 11 pro plus 5g,8,256,6.67,16,108,3,5000,qualcomm snapdragon 695,super amoled,120.0,android 11,2,2.2,1.52,1.9,30,1.0,204.0,24986
+132,redmi,redmi 9a,3,32,6.53,5,13,2,5000,mediatek helio g35,ips lcd,60.0,android 10,8,2.0,3.1,2.2,30,0.0,194.0,9399
+133,redmi,redmi 10,6,128,6.7,5,50,2,6000,qualcomm snapdragon 680,hd+ips lcd,120.0,android 11,8,2.4,2.76,1.8,30,0.0,203.0,16999
+134,redmi,redmi a1+,3,32,6.52,5,8,2,5000,mediatek helio g35,ips lcd,120.0,android 12,4,2.0,2.9,2.0,30,0.0,192.0,10999
+135,redmi,redmi 9 activ,4,64,6.53,5,13,2,5000,mediatek helio g35,hd+ips lcd,60.0,android 11,8,2.3,3.1,2.2,30,0.0,194.0,10999
+136,redmi,redmi note 11s,6,128,6.43,16,108,4,5000,mediatek helio g85,full hd+amoled,90.0,android 11,8,2.05,1.52,1.9,30,0.0,179.0,16490
+137,redmi,redmi 10a sport,6,128,6.53,5,13,1,5000,mediatek helio g35,ips lcd,60.0,android 12,8,2.0,1.52,2.2,30,0.0,194.0,13999
+138,redmi,redmi 10 prime 2022,4,64,6.5,8,50,4,6000,mediatek helio g85,ips lcd,90.0,android 11,8,2.0,1.72,2.0,30,0.0,192.0,14999
+139,redmi,redmi note 10 s,6,64,6.43,13,64,4,5000,mediatek helio g95,hd+super amoled,90.0,android 11,8,2.05,1.97,1.79,30,0.0,178.8,16999
+140,realme,realme 5i,4,128,6.52,8,12,4,5000,qualcomm snapdragon 665,hd+,60.0,android 9 pie,8,2.2,2.8,1.8,30,0.0,195.0,11999
+141,realme,realme 5i,4,64,6.52,8,12,4,5000,qualcomm snapdragon 665,hd+,60.0,android 9 pie,8,2.2,2.8,1.8,30,0.0,195.0,10999
+142,realme,realme 3 pro,4,64,6.3,25,12,2,4045,qualcomm snapdragon 720g,hd+,60.0,android 9 pie,8,2.2,2.6,1.7,120,0.0,172.0,13999
+143,realme,realme 5 pro,4,64,6.4,16,48,4,4035,qualcomm snapdragon 720g,hd+,60.0,android 9 pie,8,2.3,2.0,1.79,120,0.0,184.0,14999
+144,realme,realme 5 pro,6,64,6.4,16,48,4,4035,qualcomm snapdragon 720g,hd+,60.0,android 9 pie,8,2.3,2.0,1.79,120,0.0,184.0,15999
+145,realme,realme 5 pro,8,128,6.4,16,48,4,4035,qualcomm snapdragon 720g,hd+,60.0,android 9 pie,8,2.3,2.0,1.79,120,0.0,184.0,17999
+146,realme,relame X50 pro 5G,12,256,6.44,32,64,4,4200,qualcomm snapdragon 888,hd+super amoled,90.0,android 10,8,2.8,1.7,1.8,30,1.0,207.0,47999
+147,realme,relame X50 pro 5G,8,128,6.44,32,64,4,4200,qualcomm snapdragon 888,hd+super amoled,90.0,android 10,8,2.8,1.7,1.8,30,1.0,207.0,41999
+148,realme,realme X3 ,8,128,6.57,16,64,4,4200,qualcomm snapdragon 888,hd+lcd,120.0,android 10,8,2.96,1.72,1.8,60,0.0,202.0,21999
+149,realme,realme narzo 20,4,128,6.52,8,48,3,6000,mediatek helio g85,hd+lcd,120.0,android 10,8,2.0,2.0,1.79,120,0.0,209.0,12999
+150,realme,realme 9,6,128,6.4,16,108,3,5000,qualcomm snapdragon 680,hd+amoled,90.0,android 10,8,2.4,1.67,1.78,120,0.0,178.0,16999
+151,realme,realme 9,8,128,6.4,16,108,3,5000,qualcomm snapdragon 680,hd+amoled,90.0,android 10,8,2.4,1.67,1.78,120,0.0,178.0,17999
+152,realme,realme X3 super zoom,8,128,6.57,32,64,4,4200,qualcomm snapdragon 888,hd+lcd,120.0,android 10,8,2.96,1.72,1.8,60,0.0,202.0,29999
+153,realme,realme X3 super zoom,8,256,6.57,32,64,4,4200,qualcomm snapdragon 888,hd+lcd,120.0,android 10,8,2.96,1.72,1.8,60,0.0,202.0,31999
+154,realme,realme X3 super zoom,12,256,6.57,32,64,4,4200,qualcomm snapdragon 888,hd+lcd,120.0,android 10,8,2.96,1.72,1.8,60,0.0,202.0,34999
+155,realme,realme 7,6,64,6.5,16,64,3,5000,mediatek helio g95,hd+lcd,90.0,android 10,8,2.05,1.73,1.8,60,0.0,196.5,17999
+156,realme,realme 6 pro ,6,128,6.6,16,64,4,4300,qualcomm snapdragon 720g,hd+lcd,90.0,android 10,8,2.3,1.7,1.8,60,1.0,195.0,18999
+157,realme,realme 6 pro ,8,128,6.6,16,64,4,4300,qualcomm snapdragon 720g,hd+lcd,90.0,android 10,8,2.3,1.7,1.8,60,1.0,195.0,19999
+158,realme,realme GT neo 2,8,128,6.62,16,64,3,5000,qualcomm snapdragon 888,hd+amoled,120.0,android 11,8,3.2,1.72,1.8,60,1.0,199.8,31999
+159,realme,realme GT neo 2,12,256,6.62,16,64,3,5000,qualcomm snapdragon 888,hd+amoled,120.0,android 11,8,3.2,1.72,1.8,60,1.0,199.8,35999
+160,realme,realme X7 pro 5G,8,128,6.55,32,64,4,4500,mediatek dimensity 1200,hd+super amoled,120.0,android 10,8,2.6,1.73,1.8,60,1.0,183.7,29999
+161,realme,realme 11 pro 5G,8,128,6.7,16,100,2,5000,qualcomm snapdragon 888,oled multi-touch,120.0,android 13,8,2.6,1.8,1.75,120,1.0,191.0,23999
+162,realme,realme 11 pro 5G,12,256,6.7,16,100,2,5000,qualcomm snapdragon 888,oled multi-touch,120.0,android 13,8,2.6,1.8,1.75,120,1.0,191.0,27999
+163,realme,realme C15 Qualcomm ,3,32,6.52,8,13,4,6000,qualcomm snapdragon 460,hd+lcd,120.0,android 10,8,1.8,3.0,2.2,30,0.0,209.0,11999
+164,realme,realme 11 pro+ 5G,12,256,6.7,32,200,2,5000,qualcomm snapdragon 888,oled multi-touch,120.0,android 13,8,2.6,2.2,1.69,120,1.0,183.0,29999
+165,realme,realme 11 pro+ 5G,8,256,6.7,32,200,2,5000,qualcomm snapdragon 888,oled multi-touch,120.0,android 13,8,2.6,2.2,1.69,120,1.0,183.0,27999
+166,realme,realme Narzo 50 Pro 5G,6,128,6.4,16,48,3,5000,mediatek dimensity 920,hd+super amoled,90.0,android 12,8,2.5,2.0,1.8,30,1.0,181.0,19499
+167,realme,realme GT2 Pro,8,128,6.7,32,50,3,5000,qualcomm snapdragon 8 gen 1,hd+,120.0,android 12,8,3.0,2.56,1.8,240,1.0,199.0,49999
+168,realme,realme GT2 Pro,12,256,6.7,32,50,3,5000,qualcomm snapdragon 8 gen 1,hd+,120.0,android 12,8,3.0,2.56,1.8,240,1.0,199.0,57999
+169,realme,realme GT 5G,12,256,6.43,16,64,3,4500,qualcomm snapdragon 888,hd+amoled,120.0,android 11,8,2.84,1.73,1.8,60,1.0,186.5,41999
+170,realme,realme GT 5G,8,128,6.43,16,64,3,4500,qualcomm snapdragon 888,hd+amoled,120.0,android 11,8,2.84,1.73,1.8,60,1.0,186.5,37999
+171,realme,realme 6i,4,64,6.5,16,48,4,4300,mediatek helio g85,hd+lcd,90.0,android 10,8,2.05,2.0,1.8,60,0.0,191.0,14999
+172,realme,realme 6i,6,64,6.5,16,48,4,4300,mediatek helio g85,hd+lcd,90.0,android 10,8,2.05,2.0,1.8,60,0.0,191.0,15999
+173,realme,realme XT,4,64,6.4,16,64,4,4000,qualcomm snapdragon 460,hd+super amoled,90.0,android 9 pie,8,2.3,1.72,1.8,120,0.0,183.0,16999
+174,realme,realme XT,8,128,6.4,16,64,4,4000,qualcomm snapdragon 460,hd+super amoled,90.0,android 9 pie,8,2.3,1.72,1.8,120,0.0,183.0,19999
+175,realme,realme X,6,128,6.53,16,48,3,3765,qualcomm snapdragon 720g,hd+super amoled,60.0,android 9 pie,8,2.2,2.0,1.7,120,0.0,191.0,20999
+176,realme,realme X,4,128,6.53,16,48,3,3765,qualcomm snapdragon 720g,hd+super amoled,60.0,android 9 pie,8,2.2,2.0,1.7,120,0.0,191.0,17999
+177,apple,iphone 12 mini,4,64,5.4,12,12,2,2227,a14,retina xdr,60.0,ios 14,6,3.1,3.6,1.6,240,1.0,133.0,59900
+178,apple,iphone 12 mini,4,128,5.4,12,12,2,2227,a14,retina xdr,60.0,ios 14,6,3.1,3.6,1.6,240,1.0,133.0,64900
+179,apple,iphone 12 mini,4,256,5.4,12,12,2,2227,a14,retina xdr,60.0,ios 14,6,3.1,3.6,1.6,240,1.0,133.0,74900
+180,apple,iphone 12 pro,6,128,6.1,12,12,3,3687,a14,retina xdr,60.0,ios 14,6,3.1,2.55,1.6,240,1.0,187.0,109900
+181,apple,iphone 12 pro,6,256,6.1,12,12,3,3687,a14,retina xdr,60.0,ios 14,6,3.1,2.55,1.6,240,1.0,187.0,119900
+182,apple,iphone 12 pro,6,512,6.1,12,12,3,3687,a14,retina xdr,60.0,ios 14,6,3.1,2.55,1.6,240,1.0,187.0,139900
+183,redmi,redmi note 10,6,128,6.43,13,48,4,5000,qualcomm snapdragon 662,hd+super amoled,144.0,android 11,8,2.3,2.0,1.79,30,0.0,178.8,17990
+184,redmi,redmi a2,2,32,6.52,5,8,2,5000,mediatek helio g35,hd+,60.0,android 13,8,2.2,1.75,2.2,30,0.0,192.0,8999
+185,redmi,redmi 9 power,4,64,6.53,8,48,4,6000,qualcomm snapdragon 662,ips lcd,60.0,android 10,8,2.0,2.0,1.8,30,0.0,198.0,13999
+186,oppo,oppo A33,3,32,6.5,8,13,3,5000,qualcomm snapdragon 460,hd+lcd,90.0,android 10,8,1.8,3.06,2.2,30,0.0,186.0,9090
+187,oppo,oppo A52,4,128,6.5,16,12,4,5000,qualcomm snapdragon 665,hd+ips lcd,120.0,android 11,8,2.0,2.8,1.8,30,0.0,192.0,17990
+188,oppo,oppo F1S,4,64,5.5,16,13,1,3075,mediatek helio g85,hd+ips lcd,60.0,android 6,8,1.4,2.56,2.2,30,0.0,160.0,19990
+189,oppo,oppo F7,6,128,6.23,25,16,1,3400,mediatek helio g35,full hd+,60.0,android oreo 8.1,8,2.0,2.2,1.8,30,0.0,158.0,27990
+190,oppo,oppo A55,4,64,6.51,16,50,3,5000,mediatek helio g35,hd+ips lcd,60.0,android 11,8,2.3,2.2,1.8,30,0.0,193.0,18990
+191,oppo,oppoK10 5G,8,128,6.56,8,48,2,5000,mediatek dimensity 810,hd+ips lcd,90.0,android 12,8,2.4,1.2,1.7,120,1.0,190.0,25999
+192,oppo,oppoK10,6,128,6.59,16,50,3,5000,qualcomm snapdragon 680,full hd+lcd,90.0,android 11,8,2.4,2.76,1.8,30,0.0,189.0,18999
+193,oppo,oppoA16k,3,32,6.52,5,13,1,4230,mediatek helio g35,hd+lcd,60.0,android 11,8,2.3,2.56,2.2,30,0.0,175.0,13990
+194,oppo,oppoA96,8,128,6.59,16,50,2,5000,qualcomm snapdragon 680,full hd+,90.0,android 11,8,2.4,2.76,1.8,30,0.0,191.0,23999
+195,oppo,oppoF19 ,6,128,6.43,16,48,3,5000,qualcomm snapdragon 662,full hd+amoled,60.0,android 11,8,2.0,2.0,1.7,30,0.0,175.0,20990
+196,oppo,oppoA53s 5G,8,128,6.52,8,13,3,5000,mediatek dimensity 700,hd+,60.0,android 11,8,2.2,1.75,2.2,30,1.0,189.6,18990
+197,oppo,oppoF23 5G,8,256,6.56,32,64,3,5000,qualcomm snapdragon 695,hd+ips lcd,120.0,android 13,8,1.2,2.0,1.7,30,1.0,192.0,28999
+198,oppo,oppo reno8 pro 5G,12,256,6.7,32,50,3,4500,mediatek dimensity 8100,full hd+amoled,120.0,android 12,8,2.82,1.56,1.8,960,1.0,183.0,52999
+199,oppo,oppoA12,3,32,6.22,5,13,2,4230,mediatek helio p35,hd+ips lcd,60.0,android 9 pie,8,1.8,3.0,2.2,30,0.0,165.0,10990
+200,oppo,oppoA71,3,16,5.2,5,13,1,3000,mediatek helio g85,hd+,60.0,android 7,8,1.5,3.06,2.2,30,0.0,137.0,13490
+201,oppo,oppoA17k,3,64,6.56,5,8,1,5000,mediatek helio p35,hd+,60.0,android 12,8,2.3,4.0,2.0,30,0.0,189.0,12999
+202,oppo, oppoF23 5G,8,256,6.72,32,64,3,5000,qualcomm snapdragon 695,hd+,120.0,android 13,8,2.2,2.0,1.7,30,1.0,192.0,22899
+203,oppo, oppoA17,4,64,6.56,5,50,3,5000,mediatek helio g35,lcd multi-touch,60.0,android 12,8,2.3,2.76,1.8,30,0.0,189.0,14999
+204,oppo,oppoA77s,8,128,6.56,8,50,2,5000,qualcomm snapdragon 680,lcd multi-touch,60.0,android 12,8,2.4,2.76,1.8,30,0.0,190.0,22999
+205,oppo,oppoReno8T 5G ,8,128,6.7,32,108,3,4800,qualcomm snapdragon 695,hd+ips lcd,120.0,android 13,8,2.2,1.67,1.7,120,1.0,171.0,38999
+206,oppo,oppoA78 5G,8,128,6.56,8,13,1,5000,mediatek dimensity 700,ips lcd,90.0,android 10,8,2.0,2.76,1.8,30,1.0,188.0,21999
+207,oppo,oppoF21 pro,8,128,6.43,32,64,1,4500,qualcomm snapdragon 680,amoled,90.0,android 12,8,2.2,2.0,1.7,30,0.0,175.0,27999
+208,oppo,oppoA15,3,32,6.52,5,13,3,4230,mediatek helio p35,hd+lcd,60.0,android 10,8,2.3,3.0,2.2,30,0.0,175.0,12990
+209,oppo,oppoF21S PRO,8,128,6.43,32,64,3,4500,qualcomm snapdragon 662,amoled,90.0,android 11,8,2.4,1.67,1.7,30,0.0,182.0,27999
+210,oppo,oppoA57,4,64,6.56,8,13,2,5000,mediatek helio g35,hd+,60.0,android 12,8,2.4,2.7,2.4,30,0.0,187.0,16990
+211,oppo,oppoA31,6,128,6.5,8,12,3,4230,mediatek helio p35,hd+ips lcd,60.0,android 9 pie,8,2.3,2.86,1.8,30,0.0,180.0,15990
+212,oppo,oppoF21S Pro 5G,8,128,6.43,16,64,4,4500,qualcomm snapdragon 695,full hd+amoled,60.0,android 11,8,2.4,2.0,1.7,30,1.0,181.0,27999
+213,oppo,oppoA74 5G BLACK,6,128,6.49,8,48,3,5000,qualcomm snapdragon 460,ips lcd,90.0,android 11,8,2.0,2.0,1.7,30,1.0,190.0,20990
+214,oppo,oppoA76,6,128,6.56,8,13,2,5000,qualcomm snapdragon 680,hd+lcd,90.0,android 11,8,2.4,3.06,2.2,30,0.0,189.0,21499
+215,oppo,oppoA16E,3,32,6.52,5,13,1,4230,mediatek helio p35,hd+lcd,60.0,android 11,8,2.3,3.06,2.2,30,0.0,175.0,13990
+216,oppo,oppoF19 s,6,128,6.43,16,48,3,5000,qualcomm snapdragon 662,full hd+amoled,60.0,android 11,8,2.0,2.0,1.7,30,0.0,175.0,22990
+217,oppo,oppoA77,4,128,6.56,8,50,2,5000,mediatek helio g35,hd+,60.0,android 12,8,2.3,2.76,1.8,30,0.0,189.0,19999
+218,oppo,oppoA5,4,64,6.2,8,13,2,4230,qualcomm snapdragon 460,hd+ips lcd,60.0,android oreo 8.1,8,1.8,2.8,1.8,30,0.0,170.0,15990
+219,oppo,oppoReno 7 5G,8,256,6.43,32,64,3,4500,mediatek dimensity 920,full hd+amoled,90.0,android 11,8,2.4,2.0,1.7,240,1.0,173.0,37990
+220,oppo,oppoA17k,3,64,6.56,5,8,1,5000,mediatek helio p35,hd+,60.0,android 12,8,2.3,4.0,2.0,30,0.0,189.0,12999
+221,oppo,oppoFind N2 Flip,8,256,6.8,32,50,2,4300,mediatek dimensity 920,full hd+amoled,120.0,android 13,8,3.2,1.56,1.8,240,1.0,191.0,99999
+222,oppo,oppoReno8 pro 5G,12,256,6.7,32,50,3,4500,mediatek dimensity 8100,full hd+amoled,120.0,android 12,8,2.85,1.56,1.8,960,1.0,183.0,52999
+223,samsung,samsung galaxy F04,4,64,6.5,5,13,2,5000,mediatek helio p35,hd+lcd,60.0,android 12,8,2.3,3.06,2.2,30,0.0,188.0,8499
+224,samsung,samsung Galaxy f13,4,64,6.6,8,50,3,6000,exynos 850,hd+,60.0,android 12,8,2.0,3.5,2.4,30,0.0,207.0,10999
+225,samsung,samsung Galaxy f13,4,128,6.6,8,50,3,6000,exynos 850,hd+,60.0,android 12,8,2.0,3.06,2.2,30,0.0,207.0,11999
+226,samsung,samsung Galaxy F23 5g,4,128,6.6,8,50,3,5000,qualcomm snapdragon 720g,hd+,120.0,android 12,8,2.2,2.8,1.8,30,1.0,198.0,15999
+227,samsung,samsung Galaxy F23 5g,6,128,6.6,8,50,3,5000,qualcomm snapdragon 720g,hd+,120.0,android 12,8,2.2,2.8,1.8,30,1.0,198.0,16999
+228,samsung,samsung Galaxy F14 5g,4,128,6.6,13,50,2,6000,exynos 1330,lcd multi-touch,90.0,android 12,8,2.4,2.8,1.8,30,1.0,206.0,13490
+229,samsung,samsung Galaxy F14 5g,6,128,6.6,13,50,2,6000,exynos 1330,lcd multi-touch,90.0,android 12,8,2.4,2.78,1.8,30,1.0,206.0,14490
+230,samsung,samsung Galaxy M33 5g,6,128,6.6,8,50,4,6000,exynos 1330,hd+,120.0,android 12,8,2.4,2.78,1.8,120,1.0,215.0,16348
+231,samsung,samsung Galaxy M33 5g,8,128,6.6,8,50,4,6000,exynos 1330,hd+,120.0,android 12,8,2.4,2.76,1.8,120,1.0,215.0,17499
+232,samsung,samsung Galaxy M04,4,64,6.5,5,13,2,5000,mediatek helio p35,hd+,90.0,android 12,8,2.3,3.06,2.2,30,0.0,188.0,8079
+233,samsung,samsung Galaxy F02s,3,32,6.515,5,13,3,5000,qualcomm snapdragon 460,hd+,90.0,android 10,8,1.8,3.5,2.4,30,0.0,196.0,9490
+234,samsung,samsung Galaxy A72,8,128,6.7,32,64,4,5000,qualcomm snapdragon 720g,hd+super amoled,90.0,android 11,8,2.3,2.8,1.8,30,0.0,203.0,41999
+235,samsung,samsung Galaxy A52,6,128,6.5,32,64,4,4500,qualcomm snapdragon 720g,hd+super amoled,90.0,android 11,8,2.3,1.7,2.4,30,0.0,189.0,25990
+236,samsung,samsung Galaxy A52,8,128,6.5,32,64,4,4500,qualcomm snapdragon 720g,hd+super amoled,90.0,android 11,8,2.3,1.7,2.4,30,0.0,189.0,26990
+237,samsung,samsung Galaxy A32,6,128,6.4,20,64,4,5000,mediatek helio g85,super amoled,90.0,android 10,8,2.0,2.8,1.8,30,0.0,184.0,23499
+238,samsung,samsung Galaxy A32,8,128,6.4,20,64,4,5000,mediatek helio g85,super amoled,90.0,android 11,8,2.0,2.8,1.8,30,0.0,184.0,24999
+239,samsung,samsung Galaxy F62,8,128,6.7,32,64,4,7000,mediatek dimensity 8100,hd+super amoled,60.0,android 11,8,2.73,2.8,1.8,30,0.0,218.0,25999
+240,samsung,samsung Galaxy A10s,2,32,6.2,8,13,2,4000,mediatek helio p35,hd+,60.0,android 9 pie,8,2.0,2.6,1.8,30,0.0,168.0,9499
+241,samsung,samsung Galaxy S23 ultra 5g,12,256,6.8,12,200,4,5000,qualcomm snapdragon 8 gen 2,full hd+amoled,120.0,android 13,8,3.36,1.3,1.7,30,1.0,234.0,124999
+242,samsung,samsung Galaxy S23 ultra 5g,12,512,6.8,12,200,4,5000,qualcomm snapdragon 8 gen 2,full hd+amoled,120.0,android 13,8,3.36,1.3,1.7,30,1.0,234.0,134999
+243,samsung,samsung Galaxy S20 FE 5g,8,128,6.5,32,32,3,4500,qualcomm snapdragon 888,super amoled,120.0,android 10,8,2.73,1.76,1.8,120,1.0,190.0,29990
+244,samsung,samsung Galaxy A23 5g,6,128,6.6,8,50,2,5000,qualcomm snapdragon 695,ips lcd,120.0,android 12,8,2.2,2.2,1.8,30,1.0,195.0,21999
+245,samsung,samsung Galaxy A23 5g,8,128,6.6,8,50,2,5000,qualcomm snapdragon 695,ips lcd,120.0,android 12,8,2.2,2.2,1.8,30,1.0,195.0,23999
+246,samsung,samsung Galaxy A14 5g,4,64,6.6,13,50,2,5000,exynos 1330,ips lcd,90.0,android 13,8,2.0,2.2,1.8,30,1.0,204.0,16499
+247,samsung,samsung Galaxy A14 5g,6,128,6.6,13,50,2,5000,exynos 1330,ips lcd,90.0,android 13,8,2.0,2.2,1.8,30,1.0,204.0,18999
+248,samsung,samsung Galaxy A14 5g,8,128,6.6,13,50,2,5000,exynos 1330,ips lcd,90.0,android 13,8,2.0,2.2,1.8,30,1.0,204.0,20999
+249,samsung,samsung Galaxy S22 plus 5g,8,128,6.6,10,50,3,4500,qualcomm snapdragon 888,amoled,120.0,android 12,8,2.99,2.0,1.8,480,1.0,195.0,54999
+250,samsung,samsung Galaxy A34 5g,6,128,6.6,13,48,3,5000,mediatek dimensity 1200,super amoled,120.0,android 13,8,2.6,2.2,1.8,30,1.0,199.0,29999
+251,samsung,samsung Galaxy A34 5g,8,128,6.6,13,48,3,5000,mediatek dimensity 1200,super amoled,120.0,android 13,8,2.6,2.0,1.8,30,1.0,199.0,30999
+252,samsung,samsung Galaxy M53 5g,8,128,6.7,32,108,4,5000,mediatek dimensity 920,super amoled,120.0,android 12,8,2.4,2.2,1.8,30,1.0,176.0,25775
+253,samsung,samsung Galaxy S23 5g,8,256,6.1,12,50,3,3900,qualcomm snapdragon 8 gen 2,full hd+amoled,120.0,android 13,8,3.36,2.0,2.4,30,1.0,168.0,79999
+254,samsung,samsung Galaxy A54 5g,8,128,6.4,32,50,3,5000,exynos 1330,hd+super amoled,120.0,android 13,8,2.4,2.0,1.8,30,1.0,202.0,37049
+255,samsung,samsung Galaxy A54 5g,8,256,6.4,32,50,3,5000,exynos 1330,hd+super amoled,120.0,android 13,8,2.4,2.0,1.8,30,1.0,202.0,40999
+256,samsung,samsung Galaxy F42 5g,8,128,6.4,8,64,3,5000,mediatek dimensity 700,hd+,90.0,android 11,8,2.2,2.2,1.8,30,1.0,203.0,22999
+257,samsung,samsung Galaxy A52s 5g,6,128,6.4,32,64,4,4500,qualcomm snapdragon 778g,hd+super amoled,120.0,android 11,8,2.4,2.0,1.8,30,1.0,189.0,37900
+258,samsung,samsung Galaxy A52s 5g,8,128,6.4,32,64,4,4500,qualcomm snapdragon 778g,hd+super amoled,120.0,android 11,8,2.4,2.0,1.8,30,1.0,189.0,40899
+259,samsung,samsung Galaxy A53,8,128,6.4,32,64,4,5000,exynos 850,hd+super amoled,120.0,android 12,8,2.4,2.0,1.8,30,1.0,189.0,32900
+260,samsung,samsung Galaxy A53,8,256,6.4,32,64,4,5000,exynos 850,hd+super amoled,120.0,android 12,8,2.4,2.0,1.8,30,1.0,189.0,36499
+261,samsung,samsung Galaxy Z Fold3 5g,12,256,7.6,10,12,3,4400,qualcomm snapdragon 888,amoled,120.0,android 11,8,2.84,2.0,1.8,60,1.0,271.0,149999
+262,samsung,samsung Galaxy Z Flip4 5g,8,128,6.7,10,12,2,3700,qualcomm snapdragon 8 gen 1,full hd+amoled,120.0,android 12,8,3.18,2.0,2.2,480,1.0,187.0,89999
+263,samsung,samsung Galaxy Z Flip4 5g,8,256,6.7,10,12,2,3700,qualcomm snapdragon 8 gen 1,full hd+amoled,120.0,android 12,8,3.18,2.0,2.2,480,1.0,187.0,94999
+264,samsung,samsung Galaxy S22 5g,8,128,6.1,10,50,3,3700,qualcomm snapdragon 8 gen 1,amoled,120.0,android 12,8,2.99,2.0,1.8,480,1.0,168.0,85999
+265,samsung,samsung Galaxy S22 Ultra 5g,12,256,6.8,40,108,4,5000,qualcomm snapdragon 8 gen 1,amoled,120.0,android 12,8,2.99,2.0,2.2,60,1.0,228.0,89999
+266,samsung,samsung Galaxy A33,6,128,6.4,13,48,4,5000,exynos 1330,super amoled,90.0,android 12,8,2.4,2.2,1.8,30,1.0,186.0,28499
+267,oppo,oppoA31,6,128,6.5,8,12,3,4230,mediatek helio p35,lcd multi-touch,60.0,android 9 pie,8,2.3,2.86,1.8,30,0.0,180.0,15990
+268,oppo,oppoF17 pro,8,128,6.43,16,48,4,4015,mediatek helio p70,full hd+amoled,60.0,android 10,8,2.2,2.0,1.7,30,0.0,164.0,25990
+269,oppo,oppoF19 pro,8,128,6.43,16,48,4,4310,mediatek helio p70,hd+super amoled,60.0,android 11,8,2.2,2.0,1.7,30,0.0,172.0,23990
+270,oppo,oppoA54,4,64,6.51,16,13,3,5000,mediatek helio p35,hd+ips lcd,60.0,android 10,8,2.3,3.1,2.2,30,0.0,192.0,14990
+271,oppo,opporeno8  5G,8,128,6.43,32,50,3,4500,mediatek dimensity 1200,full hd+amoled,90.0,android 12,8,3.0,1.56,1.8,240,1.0,179.0,38999
+272,samsung,samsung Galaxy A33,8,128,6.4,13,48,3,5000,exynos 1330,super amoled,90.0,android 12,8,2.4,2.0,1.8,30,1.0,186.0,33990
+273,samsung,samsung Galaxy M30s,4,48,6.4,16,48,3,6000,qualcomm snapdragon 720g,super amoled,60.0,android 9 pie,8,2.3,2.2,2.0,30,0.0,188.0,15000
+274,samsung,samsung Galaxy A03 core ,2,32,6.5,5,8,1,5000,unisoc t612,hd+ips lcd,60.0,android 11,8,1.6,2.2,2.0,30,0.0,211.0,8200
+275,samsung,samsung Galaxy M14 5g,4,128,6.6,13,50,3,6000,exynos 1330,hd+ips lcd,60.0,android 13,8,2.4,2.2,1.8,30,1.0,206.0,14975
+276,samsung,samsung Galaxy M02 ,3,32,6.55,5,13,2,5000,mediatek helio p35,ips lcd,60.0,android 10,4,1.5,2.2,1.9,30,0.0,206.0,9386
+277,samsung,samsung Galaxy A73 5g,8,128,6.7,32,108,4,5000,qualcomm snapdragon 778g,hd+super amoled,120.0,android 12,8,2.4,2.0,1.8,30,1.0,181.0,41999
+278,samsung,samsung Galaxy A73 5g,8,256,6.7,32,108,4,5000,qualcomm snapdragon 778g,hd+super amoled,120.0,android 12,8,2.4,2.0,1.8,30,1.0,181.0,44999
+279,samsung,samsung Galaxy A13,4,128,6.6,8,50,4,5000,exynos 850,full hd+,120.0,android 12,8,2.2,2.2,1.8,30,0.0,195.0,14999
+280,samsung,samsung Galaxy A13,4,64,6.6,8,50,4,5000,exynos 850,full hd+,120.0,android 12,8,2.2,2.2,1.8,30,0.0,195.0,14400
+281,samsung,samsung Galaxy A13,6,128,6.6,8,50,4,5000,exynos 850,full hd+,120.0,android 12,8,2.2,2.2,1.8,30,0.0,195.0,15450
+282,samsung,samsung Galaxy A54 5g,8,128,6.4,32,50,3,5000,exynos 1330,hd+super amoled,120.0,android 13,8,2.4,2.0,1.8,30,1.0,202.0,38999
+283,samsung,samsung Galaxy A54 5g,8,256,6.4,32,50,3,5000,exynos 1330,hd+super amoled,120.0,android 13,8,2.4,2.0,1.8,30,1.0,202.0,40999
+284,samsung,samsung Galaxy A12,4,64,6.5,8,48,4,5000,exynos 850,hd+ips lcd,60.0,android 11,8,2.0,2.2,2.0,30,0.0,205.0,12989
+285,samsung,samsung Galaxy A12,6,128,6.5,8,48,4,5000,exynos 850,hd+ips lcd,60.0,android 11,8,2.0,2.2,2.0,30,0.0,205.0,17999
+286,samsung,samsung Galaxy J6,3,32,5.6,8,13,1,3000,mediatek dimensity 8100,super amoled,60.0,android oreo 8.1,8,1.6,2.2,1.9,30,0.0,154.0,11500
+287,oppo,oppo R17 pro,8,128,6.4,25,12,2,3700,qualcomm snapdragon 720g,amoled,60.0,android oreo 8.1,8,2.2,2.0,1.5,30,0.0,183.0,49990
+288,oppo,oppo reno 4 pro,8,128,6.5,32,48,4,4000,qualcomm snapdragon 720g,full hd+amoled,90.0,android 10,8,2.3,2.0,1.7,30,0.0,161.0,37990
+289,oppo,oppo reno10x zoom,8,256,6.6,16,48,3,4065,qualcomm snapdragon 888,amoled,90.0,android 9 pie,8,2.8,2.0,1.7,30,0.0,215.0,55990
+290,oppo,oppo reno 7 pro 5G,12,256,6.5,32,50,3,4500,mediatek dimensity 1200,full hd+amoled,90.0,android 11,8,3.0,1.56,1.8,240,1.0,180.0,47990
+291,oppo,oppo reno2,8,256,6.5,16,48,4,4000,qualcomm snapdragon 720g,amoled,60.0,android 9 pie,8,2.2,2.0,2.0,30,0.0,189.0,39990
+292,oppo,oppo reno 3 pro,8,256,6.4,44,64,4,4025,mediatek helio p70,super amoled,60.0,android 10,8,2.2,1.72,1.8,30,0.0,175.0,35990
+293,oppo,oppo reno2f,6,256,6.5,16,48,4,4000,mediatek helio p70,amoled,60.0,android 9 pie,8,2.1,2.25,1.79,30,0.0,195.0,19990
+294,oppo,oppo reno6 5g,8,128,6.43,32,64,3,4300,mediatek dimensity 920,full hd+amoled,90.0,android 11,8,2.4,2.0,1.7,30,1.0,182.0,35990
+295,oppo,oppo A77 4GB,4,64,6.56,8,50,3,5000,mediatek helio g35,hd+ips lcd,60.0,android 12,8,2.3,2.76,1.8,30,0.0,190.0,18999
+296,oppo,oppoF5,6,64,6.0,20,16,1,3200,mediatek helio p35,hd+,60.0,android 7,8,2.5,2.0,2.0,30,0.0,152.0,25990
+297,oppo,oppo A3s,2,16,6.2,8,13,2,4230,qualcomm snapdragon 460,hd+ips lcd,60.0,android oreo 8.1,8,1.8,1.8,2.2,30,0.0,168.0,11990
+298,oppo,oppo reno 10X Zoom,6,128,6.6,16,48,3,4065,qualcomm snapdragon 888,amoled,90.0,android 9 pie,8,2.8,2.0,1.7,30,0.0,215.0,41990
+299,oppo,oppoA83,4,64,5.7,8,13,1,3180,mediatek helio p35,hd+ips lcd,60.0,android 7,8,2.5,1.8,2.2,30,0.0,143.0,16990
+300,oppo,oppoA16,4,64,6.52,8,13,1,5000,mediatek helio g35,hd+,60.0,android 11,8,2.3,1.8,2.2,30,0.0,190.0,16990
+301,oppo,oppoF9,4,64,6.3,16,16,2,3500,mediatek helio p70,hd+,120.0,android oreo 8.1,8,2.0,3.1,1.85,30,0.0,169.0,21990
+302,oppo,oppoF15,4,128,6.4,16,48,4,4000,mediatek helio p70,amoled,60.0,android 9 pie,8,2.1,2.25,1.79,240,0.0,172.0,20990
+303,oppo,oppoA9 2020,8,128,6.5,16,48,4,5000,qualcomm snapdragon 665,full hd+amoled,60.0,android 9 pie,8,1.8,3.0,1.8,30,0.0,195.0,21990
+304,oppo,oppoA7,4,64,6.2,16,13,2,4230,qualcomm snapdragon 460,hd+,90.0,android oreo 8.1,8,1.8,3.1,2.2,30,0.0,168.0,18990
+305,oppo,oppoA15s,4,64,6.52,8,13,1,4230,mediatek helio g35,ips lcd,60.0,android 10,8,2.3,3.1,2.2,30,0.0,177.0,13999
+306,oppo,oppof3 plus,4,64,6.0,16,16,1,4000,qualcomm snapdragon 662,ips lcd,60.0,android 6,8,1.95,3.0,2.0,30,0.0,185.0,30990
+307,oppo,oppoA53,4,64,6.5,16,13,3,5000,qualcomm snapdragon 460,hd+lcd,90.0,android 10,8,1.8,3.06,2.2,30,0.0,186.0,15990
+308,oppo,oppoA11k,2,32,6.22,5,13,2,4230,mediatek helio p35,hd+,60.0,android 9 pie,8,1.8,3.0,2.2,30,0.0,165.0,10990
+309,oppo,oppoA5s,4,64,6.2,8,13,2,4230,mediatek helio p35,hd+,60.0,android oreo 8.1,8,2.3,4.0,2.0,30,0.0,170.0,15990
+310,oppo,oppoK1,6,64,6.41,25,16,2,3600,qualcomm snapdragon 662,full hd+amoled,60.0,android oreo 8.1,8,1.95,2.1,1.75,30,0.0,156.0,20990
+311,oppo,oppo F3,4,64,5.5,16,13,1,3200,mediatek helio g85,hd+,60.0,android 6,8,1.5,3.0,2.0,30,0.0,153.0,20990
+312,oppo,oppo F17,6,128,6.44,16,16,4,4015,qualcomm snapdragon 662,full hd+amoled,60.0,android 11,8,2.0,3.06,2.2,30,0.0,163.0,20990
+313,oppo,oppo F11 pro,6,128,6.5,16,48,2,4000,mediatek helio p70,full hd+,60.0,android 9 pie,8,2.1,2.25,2.0,30,0.0,190.0,29990
+314,oppo,oppo F11 ,6,128,6.53,16,48,2,4020,mediatek helio g85,full hd+,60.0,android 9 pie,8,2.1,2.25,1.79,30,0.0,188.0,23990
+315,apple,iphone 12 pro max,6,128,6.7,12,12,3,3687,a14,retina xdr,60.0,ios 14,6,3.1,2.55,1.6,240,1.0,226.0,119900
+316,apple,iphone 12 pro max,6,256,6.7,12,12,3,3687,a14,retina xdr,60.0,ios 14,6,3.1,2.55,1.6,240,1.0,226.0,129900
+317,apple,iphone 12 pro max,6,512,6.7,12,12,3,3687,a14,retina xdr,60.0,ios 14,6,3.1,2.55,1.6,240,1.0,226.0,149900
+318,apple,iphone 13,4,128,6.1,12,12,2,3227,a15,retina xdr,60.0,ios 15,6,3.23,1.66,1.6,60,1.0,173.0,69900
+319,apple,iphone 13,4,256,6.1,12,12,2,3227,a15,retina xdr,60.0,ios 15,6,3.23,1.66,1.6,60,1.0,173.0,79900
+320,apple,iphone 13,4,512,6.1,12,12,2,3227,a15,retina xdr,60.0,ios 15,6,3.23,1.66,1.6,60,1.0,173.0,99900
+321,apple,iphone 13 mini,4,128,5.4,12,12,2,2438,a15,retina xdr,60.0,ios 15,6,3.23,1.9,2.4,60,1.0,140.0,64900
+322,apple,iphone 13 mini,4,256,5.4,12,12,2,2438,a15,retina xdr,60.0,ios 15,6,3.23,1.9,2.4,60,1.0,140.0,74900
+323,apple,iphone 13 mini,4,512,5.4,12,12,2,2438,a15,retina xdr,60.0,ios 15,6,3.23,1.9,2.4,60,1.0,140.0,94900
+324,apple,iphone 13 pro,6,128,6.1,12,12,3,3095,a15,retina xdr,120.0,ios 15,6,3.23,1.66,1.6,60,1.0,203.0,119900
+325,apple,iphone 13 pro,6,256,6.1,12,12,3,3095,a15,retina xdr,120.0,ios 15,6,3.23,1.66,1.6,60,1.0,203.0,129900
+326,apple,iphone 13 pro,6,512,6.1,12,12,3,3095,a15,retina xdr,120.0,ios 15,6,3.23,1.66,1.6,60,1.0,203.0,149900
+327,apple,iphone 13 pro max,6,128,6.7,12,12,3,4352,a15,retina xdr,120.0,ios 15,6,3.23,1.9,1.5,60,1.0,238.0,129900
+328,apple,iphone 13 pro max,6,256,6.7,12,12,3,4352,a15,retina xdr,120.0,ios 15,6,3.23,1.9,1.5,60,1.0,238.0,139900
+329,apple,iphone 13 pro max,6,512,6.7,12,12,3,4352,a15,retina xdr,120.0,ios 15,6,3.23,1.9,1.5,60,1.0,238.0,159900
+330,apple,iphone 14,6,128,6.1,12,12,2,3279,a15,retina xdr,120.0,ios 16,6,3.23,1.9,1.5,240,1.0,172.0,79900
+331,apple,iphone 14,6,256,6.1,12,12,2,3279,a15,retina xdr,120.0,ios 16,6,3.23,1.9,1.5,240,1.0,172.0,89900
+332,apple,iphone 14,6,512,6.1,12,12,2,3279,a15,retina xdr,120.0,ios 16,6,3.23,1.9,1.5,240,1.0,172.0,109900
+333,apple,iphone 14 plus,6,128,6.7,12,12,2,4323,a15,retina xdr,120.0,ios 16,6,3.23,1.9,1.5,240,1.0,203.0,89900
+334,apple,iphone 14 plus,6,256,6.7,12,12,2,4323,a15,retina xdr,120.0,ios 16,6,3.23,1.9,1.5,240,1.0,203.0,99900
+335,apple,iphone 14 plus,6,512,6.7,12,12,2,4323,a15,retina xdr,120.0,ios 16,6,3.23,1.9,1.5,240,1.0,203.0,119900
+336,apple,iphone 14 pro,6,128,6.1,12,48,3,4323,a16,retina xdr,120.0,ios 16,6,3.0,1.9,1.78,240,1.0,206.0,119900
+337,apple,iphone 14 pro,6,256,6.1,12,48,3,4323,a16,retina xdr,120.0,ios 16,6,3.0,1.9,1.78,240,1.0,206.0,139900
+338,apple,iphone 14 pro,6,512,6.1,12,48,3,4323,a16,retina xdr,120.0,ios 16,6,3.0,1.9,1.78,240,1.0,206.0,149900
+339,apple, iphone 14 pro max,6,128,6.7,12,48,3,4323,a16,retina xdr,120.0,ios 16,6,3.0,1.9,1.78,240,1.0,240.0,139900
+340,apple,iphone 14 pro max,6,256,6.7,12,48,3,4323,a16,retina xdr,120.0,ios 16,6,3.0,1.9,1.78,240,1.0,240.0,149900
+341,apple,iphone 14 pro max,6,512,6.7,12,48,3,4323,a16,retina xdr,120.0,ios 16,6,3.0,1.9,1.78,240,1.0,240.0,169900
+342,samsung,samsung Galaxy A50s,4,128,6.4,32,48,3,4000,qualcomm snapdragon 720g,super amoled,60.0,android 9 pie,8,2.3,2.2,1.7,30,0.0,169.0,21070
+343,samsung,samsung Galaxy A04,4,64,6.5,5,50,2,5000,mediatek helio p35,hd+ips lcd,60.0,android 12,8,2.3,2.2,2.2,30,0.0,178.0,11999
+344,samsung,samsung Galaxy A14,4,64,6.6,13,50,3,5000,exynos 850,hd+lcd,60.0,android 13,8,2.0,2.2,1.8,30,0.0,192.0,13999
+345,samsung,samsung Galaxy A71,8,128,6.4,32,64,4,4500,qualcomm snapdragon 460,super amoled,60.0,android 10,8,2.3,2.0,1.8,30,0.0,179.0,34999
+346,redmi,redmi 11 prime ,4,64,6.58,8,50,3,5000,mediatek helio g85,hd+lcd,90.0,android 12,8,2.2,2.5,1.8,30,0.0,201.0,9999
+347,redmi,redmi 11 prime ,6,128,6.58,8,50,3,5000,mediatek helio g85,hd+lcd,90.0,android 12,8,2.2,2.5,1.8,30,0.0,201.0,11999
+348,redmi,redmi note 12,6,64,6.67,13,50,3,5000,qualcomm snapdragon 662,hd+super amoled,120.0,android 13,8,2.8,2.5,1.8,30,0.0,186.0,14999
+349,redmi,redmi note 12,6,128,6.67,13,50,3,5000,qualcomm snapdragon 662,hd+super amoled,120.0,android 13,8,2.8,2.5,1.8,30,0.0,186.0,16999
+350,redmi,redmi note 6 pro,4,64,6.26,20,12,2,4000,qualcomm snapdragon 662,hd+,60.0,android oreo 8.1,8,1.8,2.55,1.9,30,0.0,181.0,8999
+351,redmi,redmi note 10 pro max,6,128,6.67,16,108,4,5020,qualcomm snapdragon 720g,hd+super amoled,120.0,android 12,8,2.3,1.52,1.9,60,0.0,192.0,19999
+352,redmi,redmi k20 ,6,128,6.39,20,48,3,4000,qualcomm snapdragon 720g,hd+amoled,60.0,android 9 pie,8,2.2,2.0,1.75,960,0.0,191.0,24999
+353,redmi,redmi k20 ,6,64,6.39,20,48,3,4000,qualcomm snapdragon 720g,hd+amoled,60.0,android 9 pie,8,2.2,2.0,1.75,960,0.0,191.0,22999
+354,redmi,redmi 9 activ,6,128,6.53,5,13,2,5000,mediatek helio g35,ips lcd,60.0,android 10,8,2.3,1.72,2.2,30,0.0,196.0,11490
+355,redmi,redmi a1,2,32,6.52,5,8,2,5000,mediatek helio g35,ips lcd,60.0,android 12,4,2.0,2.9,2.0,30,0.0,192.0,6378
+356,redmi,redmi 10a,4,64,6.53,5,13,1,5000,mediatek helio g35,ips lcd,60.0,android 10,8,2.2,2.0,2.2,30,0.0,194.0,8677
+357,redmi,redmi 12c,4,64,6.71,5,50,2,5000,mediatek helio g85,ips lcd,60.0,android 12,8,2.0,1.28,1.8,30,0.0,192.0,9248
+358,redmi,redmi note 9,6,128,6.53,13,48,4,5020,mediatek helio g85,full hd+,60.0,android 10,8,2.0,2.0,1.79,30,0.0,200.0,14999
+359,redmi,redmi note 11,4,64,6.43,13,50,4,5000,qualcomm snapdragon 680,amoled,90.0,android 11,8,2.4,3.1,2.4,30,0.0,179.0,13190
+360,redmi,redmi note 10s,6,64,6.43,13,64,4,5000,mediatek helio g95,hd+super amoled,60.0,android 11,8,2.05,1.97,1.79,30,0.0,178.8,16999
+361,redmi,redmi 10 prime,6,128,6.5,8,50,4,6000,mediatek helio g85,ips lcd,90.0,android 11,8,2.0,1.79,1.8,30,0.0,192.0,14999
+362,redmi,redmi 9 prime,4,64,6.53,8,13,4,5020,mediatek helio g85,hd+ips lcd,60.0,android 10,8,2.0,2.2,2.2,30,0.0,198.0,11999
+363,redmi,redmi note 10 lite,6,128,6.67,16,48,4,5020,qualcomm snapdragon 720g,ips lcd,60.0,android 11,2,2.3,1.72,1.79,30,0.0,209.0,17990
+364,redmi,redmi note 9,4,64,6.53,13,48,4,5020,mediatek helio g85,full hd+,60.0,android 10,8,2.0,2.0,1.79,30,0.0,200.0,13990
+365,redmi,redmi 8a dual,2,32,6.22,8,13,2,5000,qualcomm snapdragon 439,hd+ips lcd,60.0,android 9 pie,8,1.95,3.1,2.2,30,0.0,188.0,7499
+366,redmi,redmi 10a,6,128,6.53,5,13,1,5000,mediatek helio g35,ips lcd,60.0,android 12,8,2.2,3.1,2.2,30,0.0,194.0,11999
+367,redmi,xiaomi 12 pro 5g,12,256,6.73,32,50,3,4600,qualcomm snapdragon 8 gen 1,full hd+amoled,60.0,android 12,8,3.0,1.28,1.9,30,1.0,205.0,47990
+368,redmi,xiaomi 11t pro 5g,12,256,6.67,16,108,3,5000,qualcomm snapdragon 888,amoled,120.0,android 11,8,2.4,1.52,1.75,30,1.0,204.0,35490
+369,redmi,redmi note 5 pro,6,64,5.99,20,12,2,4000,qualcomm snapdragon 662,hd+ips lcd,60.0,android 7,8,1.8,2.9,2.2,30,0.0,181.0,16999
+370,vivo,vivo Y12 s,3,32,6.51,8,13,2,5000,qualcomm snapdragon 460,hd+lcd,60.0,android 11,8,2.3,2.2,2.2,30,0.0,191.0,13990
+371,vivo,vivo Y20 G ,6,128,6.51,8,13,1,5000,mediatek helio g85,ips lcd,60.0,android 10,8,2.0,2.2,2.2,30,0.0,192.3,18999
+372,vivo,vivo V21 5G,8,128,6.44,44,64,3,4000,qualcomm snapdragon 888,hd+super amoled,90.0,android 11,8,2.4,2.2,1.79,60,0.0,177.0,27990
+373,vivo,vivo v17,8,128,6.44,32,48,4,4500,qualcomm snapdragon 662,full hd+,60.0,android 9 pie,8,2.0,2.2,1.8,60,0.0,176.0,27990
+374,vivo,vivo z1pro,4,64,6.53,32,16,3,5000,qualcomm snapdragon 720g,full hd+,60.0,android 9 pie,8,2.3,2.2,1.78,60,0.0,201.0,15990
+375,vivo,vivo Y91 ,3,32,6.22,8,13,2,4030,qualcomm snapdragon 439,hd+,60.0,android oreo 8.1,8,2.0,2.2,2.2,30,0.0,163.5,10990
+376,vivo,vivo Y33 t,8,128,6.58,16,50,3,5000,qualcomm snapdragon 680,hd+lcd,90.0,android 11,8,2.4,2.2,1.8,30,0.0,182.0,17989
+377,vivo,vivo V11 ,6,64,6.3,25,16,2,3315,mediatek helio p70,hd+ips lcd,60.0,android oreo 8.1,8,2.0,2.2,2.0,30,0.0,163.7,20969
+378,vivo,vivo Y69,3,32,5.5,16,13,1,3000,mediatek helio p35,hd+ips lcd,60.0,android 7,8,1.5,2.2,1.8,30,0.0,162.8,14990
+379,vivo,vivo Y95,4,64,6.22,20,13,2,4030,qualcomm snapdragon 439,hd+ips lcd,60.0,android oreo 8.1,8,1.95,2.2,2.2,30,0.0,163.5,18990
+380,vivo,vivo Y21 ,4,64,6.51,8,13,2,5000,mediatek helio p35,lcd multi-touch,90.0,android 11,8,2.3,2.2,2.2,30,0.0,182.0,13990
+381,vivo,vivo y33 t,8,128,6.58,60,50,3,5000,qualcomm snapdragon 680,hd+lcd,90.0,android 11,8,2.4,2.2,1.8,30,0.0,182.0,17989
+382,vivo,vivo Y75 5G,8,128,6.58,16,50,3,5000,mediatek dimensity 700,full hd+lcd,60.0,android 11,8,2.2,2.2,1.8,30,1.0,187.0,23990
+383,vivo,vivo V20 ,8,128,6.44,44,64,3,4000,qualcomm snapdragon 720g,full hd+amoled,60.0,android 11,8,2.3,2.2,1.89,60,0.0,171.0,23090
+384,vivo,vivo X60 pro +,12,256,6.56,32,50,4,4200,qualcomm snapdragon 888,full hd+amoled,120.0,android 11,8,2.84,2.0,1.57,60,1.0,191.0,64990
+385,vivo,vivo 20 SE,8,128,6.44,32,48,3,4100,qualcomm snapdragon 665,full hd+amoled,60.0,android 10,8,2.0,2.2,1.79,60,0.0,171.0,18990
+386,vivo,vivo V20 pro,8,128,6.44,44,64,3,4000,qualcomm snapdragon 720g,hd+super amoled,60.0,android 11,8,2.4,2.2,1.89,60,1.0,170.0,24999
+387,vivo,vivo V9,4,64,6.3,24,16,2,3260,qualcomm snapdragon 662,hd+ips lcd,60.0,android oreo 8.1,8,2.2,2.2,2.0,30,0.0,150.0,23990
+388,vivo,vivo S1 pro,8,128,6.38,32,48,4,4500,qualcomm snapdragon 665,super amoled,120.0,android 9 pie,8,2.0,2.2,1.8,60,0.0,186.7,18950
+389,vivo,vivo Y91 i,2,32,6.22,5,13,1,4030,mediatek helio p35,hd+,60.0,android oreo 8.1,8,2.0,2.2,2.2,30,0.0,163.5,9990
+390,vivo,vivo Y11,3,32,6.35,8,13,2,5000,qualcomm snapdragon 439,ips lcd,60.0,android 9 pie,8,1.95,2.2,2.2,30,0.0,190.5,8549
+391,vivo,vivo Y20 G 2021,4,64,6.51,8,13,3,5000,mediatek helio p35,hd+ips lcd,60.0,android 11,8,2.3,2.2,2.2,30,0.0,192.3,13990
+392,vivo,vivo T1x,4,128,6.58,8,50,2,5000,qualcomm snapdragon 680,full hd+lcd,120.0,android 12,8,2.4,2.2,1.8,30,0.0,182.0,17990
+393,vivo,vivo Y73,8,128,6.44,16,64,3,4000,mediatek helio g95,full hd+amoled,60.0,android 11,8,2.2,2.2,1.79,60,0.0,170.0,24990
+394,vivo, vivo T2x 5G,4,128,6.58,8,50,2,5000,mediatek dimensity 8100,full hd+lcd,90.0,android 13,8,2.2,2.2,1.8,30,1.0,184.0,17999
+395,vivo,vivo T1 44W,4,128,6.44,16,50,3,5000,qualcomm snapdragon 460,full hd+amoled,60.0,android 12,8,2.4,2.2,1.8,30,0.0,182.0,19990
+396,vivo,vivo T2 5G,8,128,6.38,16,64,2,4500,qualcomm snapdragon 662,full hd+amoled,90.0,android 13,8,2.2,2.2,1.79,30,1.0,172.0,24999
+397,vivo,vivo Y33s,8,128,6.58,16,50,3,5000,mediatek helio g85,full hd+lcd,60.0,android 11,8,2.0,2.2,1.8,30,0.0,182.0,21990
+398,vivo,vivo V27 5G,8,128,6.78,50,50,3,4600,mediatek dimensity 8100,full hd+amoled,120.0,android 13,8,2.8,2.0,1.88,30,1.0,180.0,36999
+399,vivo,vivo Y16,4,64,6.51,5,13,2,5000,mediatek helio p35,hd+lcd,60.0,android 12,8,2.3,2.2,2.2,30,0.0,183.0,15999
+400,vivo,vivo V23 5G,8,128,6.44,50,64,3,4200,mediatek dimensity 920,full hd+amoled,90.0,android 12,8,2.5,2.0,1.89,30,1.0,181.0,34990
+401,vivo,vivo Y35,8,128,6.58,16,50,3,5000,qualcomm snapdragon 680,hd+lcd,90.0,android 12,8,2.4,2.2,1.8,30,0.0,188.0,22999
+402,vivo,vivo Z1x,4,128,6.386,32,48,3,4500,qualcomm snapdragon 720g,super amoled,120.0,android 9 pie,8,2.3,2.0,1.8,30,0.0,189.6,18990
+403,vivo,vivo T1 pro 5G,8,128,6.44,16,64,3,4700,qualcomm snapdragon 888,full hd+amoled,90.0,android 12,8,2.4,2.0,1.79,30,1.0,180.3,30990
+404,vivo,vivo V25 5G,12,256,6.44,50,64,3,4500,mediatek dimensity 920,full hd+amoled,90.0,android 12,8,2.4,2.0,1.79,30,1.0,186.0,36999
+405,vivo,vivo Y23e 5G,8,128,6.44,44,50,3,4050,mediatek dimensity 810,full hd+amoled,60.0,android 12,8,2.4,2.2,1.8,30,1.0,172.0,28990
+406,vivo,vivo Y1s,3,32,6.22,5,13,1,4030,mediatek helio p35,hd+,60.0,android 10,8,2.3,2.2,2.2,30,0.0,161.0,11990
+407,vivo,vivo Y75,8,128,6.44,44,50,3,4050,mediatek helio g85,full hd+amoled,60.0,android 12,8,2.05,2.2,1.8,30,0.0,172.0,25990
+408,vivo,vivo Y56 5G,8,128,6.58,16,50,2,5000,mediatek dimensity 700,full hd+lcd,60.0,android 13,8,2.2,2.2,1.8,30,1.0,184.0,24999
+409,vivo,vivo Y12 G,3,64,6.51,8,13,2,5000,qualcomm snapdragon 439,hd+lcd,60.0,android 11,8,2.3,2.2,2.2,30,0.0,191.0,14990
+410,vivo,vivo Y100 5G,8,128,6.38,16,64,3,4500,mediatek dimensity 920,full hd+amoled,90.0,android 13,8,2.4,2.2,1.79,30,1.0,181.0,29999
+411,vivo,vivo X90,12,256,6.78,32,50,3,4810,mediatek dimensity 8100,full hd+amoled,120.0,android 13,8,3.05,2.0,1.75,480,1.0,200.0,64999
+412,vivo,vivo V21 5G,8,128,6.44,44,64,3,4000,qualcomm snapdragon 888,full hd+amoled,90.0,android 11,8,2.4,2.0,1.79,60,1.0,176.0,32990
+413,vivo,vivo Y01,2,32,6.51,5,8,1,5000,mediatek helio p35,hd+ips lcd,60.0,android 11,8,2.3,2.2,2.0,30,0.0,178.0,12999
+414,vivo,vivo Y93,3,64,6.22,8,13,2,4030,mediatek helio p35,hd+,60.0,android oreo 8.1,8,2.0,2.2,2.2,30,0.0,163.5,14990
+415,vivo,vivo V11 pro,6,64,6.41,25,12,2,3400,qualcomm snapdragon 662,amoled,60.0,android oreo 8.1,8,1.95,2.2,1.8,120,0.0,156.0,28990
+416,vivo,vivo V15 pro,6,128,6.39,32,48,3,3700,qualcomm snapdragon 662,super amoled,60.0,android 9 pie,8,2.0,2.0,1.8,120,0.0,185.0,32990
+417,vivo,vivo S1,4,128,6.38,32,16,3,4500,mediatek helio p70,super amoled,120.0,android 9 pie,8,2.0,2.2,1.78,30,0.0,179.0,19990
+418,vivo,vivo X80 pro,12,256,6.78,32,50,4,4700,qualcomm snapdragon 8 gen 1,full hd+amoled,120.0,android 12,8,3.0,2.0,1.57,30,1.0,219.0,79999
+419,vivo,vivo Y15,4,64,6.35,16,13,3,5000,mediatek helio p35,hd+ips lcd,60.0,android 9 pie,8,2.0,2.2,2.2,30,0.0,190.5,15990
+420,vivo,vivo Y01A,2,32,6.51,5,8,1,5000,mediatek helio p35,hd+ips lcd,60.0,android 11,8,2.3,2.2,2.0,30,0.0,178.0,9499
+421,vivo,vivo Y21 e,3,64,6.51,8,13,1,5000,qualcomm snapdragon 662,ips lcd,60.0,android 11,8,2.4,2.2,2.2,30,0.0,182.0,12180
+422,vivo,vivo Y56 5G,8,128,6.58,16,50,2,5000,mediatek dimensity 700,full hd+lcd,120.0,android 13,8,2.2,2.2,1.8,30,1.0,184.0,19999
+423,vivo,vivo Y20 t,6,64,6.51,8,13,3,5000,qualcomm snapdragon 662,hd+lcd,90.0,android 11,8,2.0,2.2,2.2,30,0.0,192.3,14660
+424,vivo,vivo y100 A,8,256,6.38,16,64,3,4500,qualcomm snapdragon 662,full hd+amoled,120.0,android 13,8,2.2,2.2,1.79,30,1.0,181.0,25999
+425,vivo,vivo Y22,4,128,6.55,8,50,2,5000,mediatek helio g85,hd+lcd,60.0,android 12,8,2.0,2.2,1.8,30,0.0,190.0,14980
+426,vivo,vivo T1 5G,8,128,6.58,16,50,3,5000,qualcomm snapdragon 695,full hd+lcd,120.0,android 12,8,2.2,2.2,1.8,30,1.0,187.0,19990
+427,vivo,vivo y15c,3,32,6.51,8,13,2,5000,mediatek helio p35,hd+lcd,60.0,android 12,8,2.3,2.2,2.2,30,0.0,179.0,11490
+428,vivo,vivo y02,3,32,6.51,5,8,1,5000,mediatek helio p35,hd+lcd,60.0,android 12,8,2.0,2.2,2.0,30,0.0,186.0,12999
+429,vivo,vivo v23 pro 5g,12,256,6.56,50,108,3,4300,mediatek dimensity 1200,full hd+amoled,90.0,android 12,8,3.0,2.0,1.88,30,1.0,171.0,39998
+430,vivo,vivo Y15 s,3,32,6.51,8,13,1,5000,mediatek helio g35,ips lcd,60.0,android 11,8,2.0,2.2,2.2,30,0.0,179.0,10999
+431,vivo,vivo X90 pro,12,256,6.78,32,50,3,4870,mediatek dimensity 8100,full hd+amoled,120.0,android 13,8,3.05,2.0,1.6,30,1.0,214.85,84999
+432,vivo,vivo Y72 5g,8,128,6.58,8,48,2,5000,qualcomm snapdragon 460,full hd+lcd,90.0,android 11,8,2.0,2.2,1.79,30,1.0,185.5,19990
+433,vivo,vivo V25 pro 5g,12,256,6.56,32,64,3,4830,mediatek dimensity 1200,full hd+amoled,120.0,android 12,8,3.0,2.0,1.89,30,1.0,190.0,31490
+434,vivo,vivo Y51 A ,8,128,6.58,16,48,3,5000,qualcomm snapdragon 662,hd+lcd,60.0,android 11,8,2.0,2.2,1.79,30,0.0,188.0,21990
+435,vivo,vivo S1 pro,8,128,6.38,32,48,4,4500,qualcomm snapdragon 665,super amoled,120.0,android 9 pie,8,2.0,2.2,1.8,60,0.0,186.7,18950
+436,vivo,vivo Y31,6,128,6.58,16,48,3,5000,qualcomm snapdragon 662,full hd+lcd,60.0,android 11,8,2.0,2.0,1.7,30,0.0,188.0,20490
+437,vivo,vivo X80,8,128,6.78,32,50,3,4500,mediatek dimensity 8100,full hd+amoled,120.0,android 12,8,3.05,1.49,1.75,30,1.0,206.0,54999
+438,vivo,vivo X60,12,256,6.56,32,48,3,4300,qualcomm snapdragon 888,full hd+amoled,120.0,android 11,8,3.2,2.0,2.45,60,1.0,176.0,46990
+439,poco,poco C51,4,64,6.52,5,8,1,5000,mediatek helio g35,hd+,60.0,android 13,8,2.2,2.2,2.0,60,0.0,192.0,6999
+440,poco,poco c55,6,128,6.71,5,50,1,5000,mediatek helio g85,hd+,60.0,android 12,8,2.0,2.2,1.8,30,0.0,192.0,9249
+441,poco,poco c50,2,32,6.52,5,8,1,5000,mediatek helio g35,hd+,60.0,android 12,8,2.0,2.2,2.0,30,0.0,192.0,5649
+442,poco,poco M4 5G,4,64,6.58,8,50,2,5000,mediatek dimensity 700,full hd+,90.0,android 12,8,2.2,2.2,1.8,30,1.0,200.0,11999
+443,poco,poco M5,4,64,6.58,8,50,3,5000,mediatek helio g85,full hd+,90.0,android 12,8,2.2,2.2,1.8,30,0.0,201.0,8999
+444,poco,poco M4 5G pro,6,128,6.6,16,50,2,5000,mediatek dimensity 810,full hd+,90.0,android 11,8,2.4,2.2,1.8,60,1.0,195.0,16999
+445,poco,poco M4 pro,6,128,6.43,16,64,3,5000,mediatek helio g85,full hd+amoled,90.0,android 11,8,2.05,2.2,1.8,30,0.0,179.5,16499
+446,poco,poco X5 5G,6,128,6.67,13,48,3,5000,mediatek helio g85,hd+super amoled,120.0,android 12,8,2.2,2.2,1.8,30,1.0,188.0,15999
+447,poco,poco M3 pro 5G,6,128,6.5,8,48,3,5000,mediatek dimensity 700,full hd+,90.0,android 11,8,2.2,2.2,1.79,30,1.0,190.0,14499
+448,poco,poco X5 pro 5G,8,256,6.67,16,108,3,5000,qualcomm snapdragon 778g,full hd+amoled,120.0,android 12,8,2.4,1.52,1.9,60,1.0,181.0,23999
+449,poco,poco C31,3,32,6.53,5,13,3,5000,mediatek helio g35,hd+ips lcd,60.0,android 10,8,2.3,2.2,2.2,30,0.0,194.0,8499
+450,poco,poco F5 5G,8,256,6.67,16,64,3,5000,qualcomm snapdragon 8 gen 1,full hd+amoled,120.0,android 13,8,2.91,2.0,1.79,60,1.0,181.0,29999
+451,poco,poco X2,6,64,6.67,20,64,4,4500,qualcomm snapdragon 720g,full hd+,120.0,android 10,8,2.2,2.2,1.8,60,0.0,208.0,15490
+452,poco,poco F3 GT 5G,8,128,6.67,16,64,3,5065,mediatek dimensity 1200,hd+super amoled,120.0,android 11,8,3.0,2.0,2.2,30,1.0,205.0,34999
+453,poco,poco F4 5G,12,256,6.67,20,64,3,4500,qualcomm snapdragon 888,full hd+,120.0,android 12,8,3.2,2.0,1.8,60,1.0,195.0,39999
+454,poco,poco M2,6,128,6.53,8,13,4,5000,mediatek helio g85,full hd+,120.0,android 10,8,2.0,2.2,2.2,30,0.0,198.0,13490
+455,poco,poco C3,4,64,6.53,5,13,2,5000,mediatek helio g35,hd+ips lcd,60.0,android 10,8,2.3,2.2,2.2,30,0.0,194.0,10999
+456,poco,poco M2 reloaded,4,64,6.53,8,13,4,5000,mediatek helio g85,full hd+,60.0,android 10,8,2.0,2.2,2.2,30,0.0,198.0,10999
+457,poco,poco M2 pro,4,64,6.67,16,48,4,5000,qualcomm snapdragon 720g,full hd+,120.0,android 10,8,2.3,2.2,1.8,60,0.0,209.0,16999
+458,poco,poco F1,6,64,6.18,20,12,2,4000,qualcomm snapdragon 888,hd+ips lcd,60.0,android oreo 8.1,8,2.8,2.2,1.9,30,0.0,180.0,13798
+459,poco,poco M3,6,128,6.53,8,48,3,6000,qualcomm snapdragon 662,full hd+,60.0,android 10,8,2.0,2.2,1.79,30,0.0,197.0,14999
+460,poco,poco X3 pro,8,128,6.67,20,48,4,5160,qualcomm snapdragon 888,full hd+,120.0,android 11,8,2.96,2.2,1.79,60,0.0,213.0,25999
+461,poco,poco X3,8,128,6.67,20,64,4,6000,qualcomm snapdragon 720g,full hd+,120.0,android 10,8,2.3,2.2,1.8,60,0.0,225.0,19990
+462,poco,poco X2,6,64,6.67,20,64,4,4500,qualcomm snapdragon 720g,full hd+,120.0,android 10,8,2.2,2.2,1.8,60,0.0,208.0,15490
+463,poco,poco M2,6,64,6.53,8,13,4,5000,mediatek helio g85,hd+ips lcd,120.0,android 10,8,2.0,2.2,2.2,30,0.0,198.0,12999
+464,poco,poco F3 GT,8,128,6.67,16,64,3,5065,mediatek dimensity 1200,hd+super amoled,120.0,android 11,8,3.0,2.0,1.65,30,1.0,205.0,34999
+465,poco,poco M4 5G,4,64,6.58,8,50,2,5000,mediatek dimensity 700,full hd+,90.0,android 12,8,2.2,2.2,1.8,30,1.0,200.0,11999
+466,poco,poco x4 pro 5G,6,64,6.67,16,64,3,5000,qualcomm snapdragon 720g,full hd+,120.0,android 11,8,2.2,2.2,2.2,30,1.0,205.0,16499
+467,motorola,motorola g13,4,128,6.5,8,50,3,5000,mediatek helio g85,hd+ips lcd,90.0,android 13,8,2.0,2.2,1.8,60,0.0,182.0,9999
+468,motorola,motorola G62 5G,8,128,6.5,16,50,3,5000,qualcomm snapdragon 720g,full hd+,120.0,android 12,8,2.2,2.2,2.4,60,1.0,184.0,16499
+469,motorola,motorola G62 5G,6,128,6.5,16,50,3,5000,qualcomm snapdragon 720g,full hd+,120.0,android 12,8,2.2,2.2,2.4,60,1.0,184.0,15499
+470,motorola,motorola edge 40,8,256,6.55,32,50,2,4400,mediatek dimensity 8100,full hd+,144.0,android 13,8,2.6,2.2,1.4,240,1.0,171.0,29999
+471,motorola,motorola e40,4,64,6.5,8,48,3,5000,unisoc t612,hd+ips lcd,90.0,android 11,8,1.8,2.2,1.79,30,0.0,198.0,8999
+472,motorola,motorola g73 5G,8,128,6.5,16,50,2,5000,mediatek dimensity 920,hd+lcd,120.0,android 13,8,2.2,2.2,1.8,60,0.0,181.0,16999
+473,motorola,motorola g13,6,128,6.5,8,50,3,5000,mediatek helio g85,hd+ips lcd,90.0,android 13,8,2.0,2.2,1.8,60,0.0,182.0,12999
+474,motorola,motorola g82 5G,8,128,6.6,16,50,3,5000,qualcomm snapdragon 720g,full hd+,120.0,android 12,8,2.2,2.2,1.8,60,1.0,173.0,21499
+475,motorola,motorola g82 5G,6,128,6.6,16,50,3,5000,qualcomm snapdragon 720g,full hd+,120.0,android 12,8,2.2,2.2,1.8,60,1.0,173.0,19999
+476,motorola,motorola edge 30 fusion,8,128,6.55,32,50,3,4400,qualcomm snapdragon 888,full hd+,144.0,android 12,8,2.99,2.0,1.8,60,1.0,175.0,34999
+477,motorola,moto G32,8,128,6.55,16,50,3,5000,qualcomm snapdragon 680,full hd+lcd,90.0,android 12,8,2.4,2.2,1.8,60,0.0,180.0,11999
+478,motorola,moto G32,4,64,6.55,16,50,3,5000,qualcomm snapdragon 680,full hd+lcd,90.0,android 12,8,2.4,2.2,1.8,60,0.0,180.0,10999
+479,motorola,motorola e32,4,64,6.5,8,50,2,5000,mediatek helio g35,hd+ips lcd,90.0,android 12,8,2.3,2.2,1.8,60,0.0,185.0,7999
+480,motorola,motorola e13,4,64,6.5,5,13,1,5000,unisoc t612,hd+ips lcd,60.0,android 13,8,1.6,2.2,2.2,60,0.0,179.5,7299
+481,motorola,motorola g72,6,128,6.55,16,108,3,5000,mediatek helio g85,full hd+amoled,120.0,android 12,8,2.2,2.2,1.7,120,0.0,170.0,16999
+482,motorola,motorola g31,6,128,6.4,13,50,3,5000,mediatek helio g85,full hd+amoled,60.0,android 11,8,2.0,2.2,1.8,30,0.0,180.0,12999
+483,motorola,motorola g52,6,128,6.6,16,50,3,5000,qualcomm snapdragon 680,full hd+amoled,90.0,android 11,8,2.4,2.2,1.8,30,0.0,169.0,13999
+484,motorola,motorola edge 30 ,6,128,6.55,32,50,3,4020,qualcomm snapdragon 778g,full hd+,144.0,android 12,8,2.5,2.2,1.8,60,1.0,155.0,24999
+485,motorola,motorola edge 30 ,8,128,6.55,32,50,3,4020,qualcomm snapdragon 778g,full hd+,144.0,android 12,8,2.5,2.2,1.8,60,1.0,155.0,24999
+486,motorola,motorola G42,4,64,6.47,16,50,3,5000,qualcomm snapdragon 680,hd+,60.0,android 12,8,2.4,2.2,1.7,30,0.0,180.0,11990
+487,motorola,motorola e22s,4,64,6.5,8,16,2,5000,mediatek helio g35,lcd multi-touch,90.0,android 12,8,2.3,2.2,2.2,30,0.0,185.0,8315
+488,motorola,motorola edge 30 ultra,12,256,6.67,60,200,3,4610,qualcomm snapdragon 8 gen 1,full hd+amoled,60.0,android 12,8,3.2,2.0,1.9,960,1.0,198.5,49999
+489,motorola,moto G71 5G,6,128,6.4,16,50,3,5000,qualcomm snapdragon 695,full hd+amoled,60.0,android 11,8,2.2,2.2,1.8,60,1.0,179.0,17997
+490,motorola,motorola g22,4,64,6.5,16,50,4,5000,mediatek helio g35,hd+ips lcd,90.0,android 12,8,2.3,2.2,1.8,30,0.0,185.0,10999
+491,motorola,motorola G8 power lite,4,64,6.5,8,16,3,5000,mediatek helio p35,hd+ips lcd,90.0,android 9 pie,8,2.3,2.2,1.7,30,0.0,200.0,9999
+492,motorola,motorola edge 20 5G,8,128,6.7,32,108,3,4000,qualcomm snapdragon 778g,full hd+amoled,144.0,android 11,8,2.4,2.0,1.9,60,1.0,163.0,34999
+493,motorola,motorola one action,4,128,6.3,12,12,3,3500,mediatek dimensity 8100,hd+ips lcd,90.0,android 9 pie,8,2.2,2.2,1.8,60,0.0,176.0,16999
+494,motorola,motorola G9 power,4,64,6.78,16,64,3,6000,qualcomm snapdragon 662,hd+ips lcd,90.0,android 11,8,2.0,2.2,1.79,30,0.0,221.0,11999
+495,motorola,motorola G9 ,4,64,6.78,8,48,3,5000,qualcomm snapdragon 662,hd+ips lcd,90.0,android 10,8,2.0,2.2,1.79,30,0.0,221.0,11499
+496,motorola,motorola e32s,3,32,6.5,8,16,2,5000,mediatek helio g35,hd+ips lcd,90.0,android 12,8,2.2,2.2,2.2,30,0.0,185.0,7785
+497,motorola,motorola G40 fusion,6,128,6.78,16,64,3,6000,qualcomm snapdragon 720g,hd+ips lcd,120.0,android 11,8,2.3,2.2,2.2,30,0.0,220.0,19999
+498,motorola,motorola E7 plus,4,64,6.5,8,48,2,5000,qualcomm snapdragon 460,hd+ips lcd,90.0,android 10,8,1.8,2.2,1.7,30,0.0,180.0,9499
+499,motorola,motorola G51 5G,4,64,6.8,13,50,3,5000,qualcomm snapdragon 460,full hd+lcd,90.0,android 11,8,2.2,2.76,1.8,30,1.0,208.0,14999
+500,motorola,motorola G8 Plus,4,64,6.3,25,48,3,4000,qualcomm snapdragon 665,hd+ips lcd,90.0,android 9 pie,8,2.0,2.2,2.0,30,0.0,188.0,15999
+501,motorola,motorola G60,6,128,6.8,32,108,3,6000,qualcomm snapdragon 720g,hd+ips lcd,60.0,android 11,8,2.3,2.2,2.2,30,0.0,220.0,14999
+502,motorola,motorola E7 power,2,32,6.51,5,13,2,5000,mediatek helio g35,hd+ips lcd,60.0,android 10,8,2.0,2.2,1.8,30,0.0,180.0,6999
+503,motorola,motorola edge 30 pro,8,128,6.4,60,50,3,4800,qualcomm snapdragon 8 gen 1,full hd+amoled,144.0,android 12,8,3.0,1.5,1.8,30,1.0,196.0,34999
+504,motorola,motorola G10 power,4,64,6.51,8,48,4,6000,qualcomm snapdragon 460,hd+ips lcd,90.0,android 11,8,1.8,2.2,1.8,30,0.0,220.0,9999
+505,motorola,motorola 1 power,4,64,6.2,12,16,2,5000,qualcomm snapdragon 662,hd+ips lcd,90.0,android oreo 8.1,8,1.8,2.2,1.8,30,0.0,205.0,18999
+506,redmi,xiaomi 11i 5g,8,128,6.67,16,108,3,5160,mediatek dimensity 920,full hd+amoled,120.0,android 11,8,2.5,1.52,1.89,30,1.0,207.0,26999
+507,redmi,mi mix 2,6,128,5.99,5,12,1,3400,qualcomm snapdragon 888,hd+ips lcd,60.0,android 7,8,2.5,2.9,2.0,30,0.0,185.0,37999
+508,redmi,redmi 8,4,64,6.22,8,12,2,5000,qualcomm snapdragon 439,ips lcd,60.0,android 9 pie,8,1.95,2.55,1.8,30,0.0,188.0,10999
+509,redmi,redmi note 8,4,64,6.3,13,48,4,4000,qualcomm snapdragon 665,full hd+,60.0,android 9 pie,8,2.0,2.0,1.79,30,0.0,188.0,12999
+510,redmi,redmi note 7 pro,6,128,6.3,13,48,2,4000,qualcomm snapdragon 662,hd+ips lcd,60.0,android 9 pie,8,2.0,2.0,1.79,30,0.0,186.0,16999
+511,redmi,redmi y2,4,64,5.99,16,12,2,3080,qualcomm snapdragon 662,hd+ips lcd,60.0,android oreo 8.1,8,2.0,2.9,2.2,30,0.0,168.0,13499
+512,redmi,redmi note 4,4,64,5.5,5,13,1,4100,qualcomm snapdragon 662,hd+ips lcd,60.0,android 6,8,2.0,3.0,2.0,30,0.0,165.0,12749
+513,redmi,redmi 3s prime,3,32,5.0,5,13,1,4100,qualcomm snapdragon 439,hd+ips lcd,60.0,android 6,8,1.4,1.52,2.0,30,0.0,144.0,8999
+514,redmi,mi max 2,4,64,6.44,5,12,1,5300,qualcomm snapdragon 662,hd+ips lcd,60.0,android 7,8,2.0,2.9,2.2,30,0.0,211.0,14999
+515,redmi,redmi k20 pro,8,256,6.39,20,48,3,4000,qualcomm snapdragon 888,full hd+amoled,60.0,android 9 pie,8,2.84,2.0,1.75,30,0.0,191.0,31999
+516,redmi,mi 11x,8,128,6.67,20,48,3,4520,qualcomm snapdragon 888,full hd+amoled,120.0,android 11,8,3.2,2.3,1.79,30,1.0,196.0,34499
+517,redmi,xiaomi 13 pro,12,256,6.73,32,50,3,4820,qualcomm snapdragon 8 gen 2,amoled,120.0,android 13,8,3.2,1.0,1.9,30,1.0,229.0,74990
+518,redmi,redmi 9a sport,3,32,6.53,5,13,1,5000,mediatek helio g35,ips lcd,60.0,android 10,8,2.0,3.1,2.2,30,0.0,194.0,8290
+519,redmi,xiaomi 11i Hypercharge 5g,6,128,6.67,16,108,3,4500,mediatek dimensity 920,full hd+amoled,120.0,android 11,8,2.5,1.52,1.9,30,1.0,204.0,23999
+520,redmi,redmi 9i,4,64,6.53,5,13,1,5000,mediatek helio g35,hd+ips lcd,60.0,android 10,8,2.0,1.52,2.2,30,0.0,194.0,9499
+521,redmi,redmi 10 power,8,128,6.7,5,50,2,6000,qualcomm snapdragon 680,ips lcd,60.0,android 13,8,2.4,1.56,1.8,30,0.0,203.0,12388
+522,redmi,redmi note 6 pro,4,64,6.26,20,12,2,4000,qualcomm snapdragon 662,hd+ips lcd,60.0,android oreo 8.1,8,1.8,1.28,1.9,30,0.0,181.0,8999
+523,redmi,redmi 7a,2,16,5.45,5,12,1,4000,qualcomm snapdragon 439,hd+ips lcd,60.0,android 9 pie,8,2.0,3.1,2.2,30,0.0,165.0,6499
+524,redmi,xiaomi 11t pro 5g Hyperphone,8,128,6.67,16,108,3,5000,qualcomm snapdragon 888,amoled,120.0,android 11,8,2.4,1.52,1.75,30,1.0,204.0,32499
+525,redmi,redmi go,1,8,5.0,5,8,1,3000,qualcomm snapdragon 439,ips lcd,60.0,android oreo 8.1,4,1.4,4.0,2.0,30,0.0,137.0,5999
+526,redmi,mi 11x pro 5g,8,128,6.67,20,108,3,4520,qualcomm snapdragon 888,full hd+amoled,120.0,android 11,8,2.84,1.52,1.75,30,1.0,196.0,28749
+527,redmi,mi 10t,6,128,6.67,20,64,3,5000,qualcomm snapdragon 888,full hd+,144.0,android 10,8,2.84,1.7,1.89,30,1.0,216.0,23990
+528,redmi,xiaomi 11 lite ne,6,128,6.55,20,64,3,4250,qualcomm snapdragon 778g,amoled,90.0,android 11,8,2.4,1.97,1.8,30,1.0,158.0,24990
+529,oneplus,oneplus nord ce2 lite 5g,6,128,6.59,16,64,3,5000,qualcomm snapdragon 720g,ips lcd,120.0,android 13,8,2.2,2.0,1.7,30,1.0,195.0,18978
+530,oneplus,oneplus 11r 5g,8,128,6.7,16,50,3,5000,qualcomm snapdragon 888,fluid amoled,120.0,android 13,8,3.2,1.56,1.8,240,1.0,204.0,39990
+531,oneplus,oneplus nord 2t 5g,8,128,6.7,32,50,3,4500,mediatek helio p35,amoled,90.0,android 13,10,2.4,1.56,1.9,60,1.0,190.0,28609
+532,oneplus,oneplus 10r ,12,256,6.7,16,50,3,5000,mediatek dimensity 8100,fluid amoled,120.0,android 12,8,2.2,1.56,1.8,120,1.0,186.0,37590
+533,oneplus,oneplus 10r 5g,8,128,6.7,16,50,3,5000,mediatek dimensity 8100,fluid amoled,120.0,android 12,8,2.85,1.56,1.8,30,1.0,186.0,32999
+534,oneplus,oneplus nord ce 3 lite 5g,8,256,6.72,16,108,3,5000,qualcomm snapdragon 662,ips lcd,120.0,android 13,8,2.2,1.67,1.8,30,1.0,195.0,20899
+535,oneplus,oneplus 10 pro 5g,12,256,6.7,32,48,3,5000,qualcomm snapdragon 8 gen 1,fluid amoled,120.0,android 12,8,2.4,2.76,1.8,60,1.0,201.0,71990
+536,oneplus,oneplus 10 pro 5g,8,128,6.7,32,48,3,5000,qualcomm snapdragon 8 gen 1,fluid amoled,120.0,android 12,8,2.4,2.76,1.8,60,1.0,201.0,51999
+537,oneplus,oneplus 9rt 5g,12,256,6.62,16,50,3,4500,qualcomm snapdragon 888,amoled,120.0,android 11,8,2.4,1.56,1.8,60,1.0,198.5,39890
+538,oneplus,oneplus 11 5g,16,256,6.7,16,50,3,5000,qualcomm snapdragon 8 gen 1,fluid amoled,120.0,android 13,8,3.2,1.56,1.8,60,1.0,205.0,61990
+539,oneplus,oneplus 11 5g,8,128,6.7,16,50,3,5000,qualcomm snapdragon 8 gen 1,fluid amoled,120.0,android 13,8,3.2,1.56,1.8,60,1.0,205.0,55975
+540,oneplus,oneplus 9rt 5g,8,256,6.62,16,50,3,4500,qualcomm snapdragon 888,amoled,120.0,android 11,8,2.4,1.56,1.8,60,1.0,198.5,43619
+541,oneplus,oneplus 9 ,8,128,6.55,16,48,3,4500,qualcomm snapdragon 888,fluid amoled,120.0,android 11,8,2.4,1.43,1.8,60,1.0,192.0,28799
+542,oneplus,oneplus 9,12,256,6.55,16,48,3,4500,qualcomm snapdragon 888,fluid amoled,120.0,android 11,8,2.4,3.0,1.8,60,1.0,192.0,36499
+543,oneplus,oneplus nord ce 5g,6,128,6.43,16,64,3,4500,qualcomm snapdragon 460,fluid amoled,90.0,android 11,2,2.4,3.0,1.8,30,1.0,170.0,24499
